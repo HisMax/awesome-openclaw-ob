@@ -73,7 +73,12 @@ Plugin 通过 npm 安装，继承了 npm 生态的供应链风险。相比 ClawH
 - [[Provider-Plugin 架构]] -- v2026.3 引入的模型提供商插件化，是 Plugin 系统三类扩展中 LLM Provider 的架构升级
 - [[可插拔沙箱后端]] -- 沙箱后端通过插件机制注册
 - [[Dashboard 控制面板]] -- Dashboard 的 Config 模块管理 Plugin 配置
-- [[OpenClaw v2026.3 版本更新]] -- v2026.3.22-beta.1 中插件 SDK 路径 Breaking Change
+- [[OpenClaw v2026.3 版本更新]] -- v2026.3.22 中插件 SDK 路径 Breaking Change
+- [[v2026.3.22 Breaking Changes 迁移指南]] -- SDK 路径迁移详细指南
+- [[ChannelMessageActionAdapter]] -- v2026.3.22 新增的统一消息工具发现接口
+- [[可插拔记忆插件]] -- 记忆系统通过插件机制可插拔
+- [[ClawHub 原生安装]] -- v2026.3.22 将 ClawHub 安装整合进核心
+- [[Marketplace 安装范围验证]] -- 插件安装的安全验证
 - [[OpenClaw 官方安全模型]] -- 插件的安全审计与供应链风险
 
 ## 参考

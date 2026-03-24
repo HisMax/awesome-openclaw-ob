@@ -79,9 +79,13 @@ Gateway 启动时，`loader.ts` 自动发现并加载所有声明了 `providers`
 |--------|------|------|
 | OpenAI GPT-5.4 fast mode | v2026.3.12 | 低延迟快速推理模式 |
 | Anthropic Claude fast mode | v2026.3.12 | Anthropic 的快速推理模式 |
-| Anthropic Vertex AI | v2026.3.22-beta.1 | 通过 Google Cloud Vertex AI 调用 Claude |
-| MiniMax | v2026.3.12 | 模型目录对齐更新 |
-| xAI | v2026.3.12 | 模型目录对齐更新 |
+| [[Anthropic Vertex 提供商]] | v2026.3.22 | 通过 Google Cloud Vertex AI 调用 Claude |
+| [[MiniMax M2.7 系列]] | v2026.3.22 | API/OAuth 合并 + M2.7/M2.7-highspeed |
+| [[xAI Grok 集成]] | v2026.3.22 | 目录同步 + fast-mode 映射 |
+| [[Z.AI GLM 4.5-4.6 系列]] | v2026.3.22 | 目录更新至 4.5/4.6 + 定价同步 |
+| [[Xiaomi MiMo 提供商]] | v2026.3.22 | `/v1` 端点 + MiMo V2 Pro/Omni |
+| [[Qwen DashScope 提供商]] | v2026.3.23 | DashScope 标准端点重构 |
+| [[捆绑提供商插件化迁移\|OpenRouter/Copilot/Codex]] | v2026.3.22 | 从核心迁移为独立插件 |
 
 ## 与 Plugin 扩展系统的关系
 
