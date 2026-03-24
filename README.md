@@ -8,6 +8,7 @@
 [![Wikilinks](https://img.shields.io/badge/Wikilinks-2397+-green)](#知识库结构)
 
 ---
+> 佬友发帖专属：感谢LinuxDO社区～ https://linux.do/
 
 ## 中文
 
