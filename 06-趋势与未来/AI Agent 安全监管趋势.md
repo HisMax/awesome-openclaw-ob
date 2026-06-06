@@ -24,17 +24,23 @@ aliases:
 
 ### 各国/机构监管动向
 
-| 机构 | 动作 | 状态 |
-|------|------|------|
-| **NIST**（美国） | 启动"AI Agent 标准计划" | 2026.2 启动 |
-| **荷兰 AP** | 警告用户对 GDPR 合规负责 | 已发布 |
-| **比利时 CCB** | 针对 CVE-2026-25253 发布紧急安全警告 | 已发布 |
-| **EU AI Act** | 讨论 Agent 适用范围，高风险分类可能覆盖自主 Agent | 讨论中 |
-| **Linux Foundation** | 成立 [[Agentic AI Foundation（AAIF）]]，146 家组织加入 | 已成立 |
+| 机构 | 动作 | 状态 | Q2 更新 |
+|------|------|------|---------|
+| **NIST**（美国） | 启动"AI Agent 标准计划" | 2026.2 启动 | RFI 已关闭；NCCoE Agent 身份授权概念论文征求意见已截止（4.2）；SP 800-53 控制叠加开发中 |
+| **荷兰 AP** | 警告用户对 GDPR 合规负责 | 已发布 | — |
+| **比利时 CCB** | 针对 CVE-2026-25253 发布紧急安全警告 | 已发布 | — |
+| **[[EU AI Act 2026 进展\|EU AI Act]]** | ~~讨论 Agent 适用范围~~ | ~~讨论中~~ | **Omnibus 协议达成（5.7）**，高风险系统延至 2027.12 |
+| **Linux Foundation** | [[Agentic AI Foundation（AAIF）]] | 已成立 | **190 家组织**（+43），含美国陆军、国家实验室 |
 
-### EU AI Act 对 Agent 的法律问题
+### EU AI Act Omnibus 协议（2026.5.7 达成）
 
-透明性（接收方是否有权知道对方是 AI）、高风险分类（控制家居/财务的 Agent 是否属高风险）、责任归属（Agent 造成损失谁负责）三大问题尚无定论。行业现状：88% 组织报告安全事件，仅 14.4% 有完整审批，Gartner 预测 2027 年 Agent 项目失败率 40%。
+2026 年 5 月 7 日，欧盟理事会、欧洲议会和欧盟委员会就 **Digital Omnibus on AI** 达成临时协议——这是 EU AI Act 自 2024 年 6 月通过以来的**首次修订**。核心变化：
+
+- **高风险系统延期**：Annex III（使用类）从 2026.8.2 延至 **2027.12.2**（推迟 16 个月）；Annex I（产品类，含医疗器械、电梯等）延至 **2028.8.2**
+- **新增禁止项**：禁止 AI 生成/篡改非同意性亲密材料和 CSAM，2026.12.2 生效
+- **合成媒体透明要求**提前至 2026.12.2
+
+三大未决法律问题仍存在：透明性、高风险分类、责任归属。但时间线延长给了 Agent 赛道更多缓冲。详见 [[EU AI Act 2026 进展]]。
 
 ## 关键洞察
 
@@ -52,3 +58,5 @@ aliases:
 - [荷兰 AP](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [Linux Foundation - AAIF](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)
 - [Dark Reading](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
+- [EU AI Act Omnibus Agreement](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/)
+- [AAIF 新增 43 成员](https://www.prnewswire.com/news-releases/agentic-ai-foundation-adds-43-new-members-as-enterprise-and-government-adoption-of-open-agent-standards-accelerates-302774361.html)

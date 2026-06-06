@@ -42,6 +42,8 @@ Fortune 500 中 80%+ 部署了活跃 AI Agent，但 29% 员工使用未授权 Ag
 
 两条路径的竞争本质是 [[安全边界与风险（总览）|安全性与实用性]] 的权衡。Karpathy 也表示谨慎——不愿给"400K lines of vibe coded monster"交出私人数据。从 [[商业化路径|投资视角]] 看，企业 Agent 市场 2030 年预计 $426-527 亿，竞争壁垒在 [[Agentic AI Foundation（AAIF）|安全基础设施]]、[[MCP（Model Context Protocol）|协议标准]] 和生态网络效应。rentamac.io 的"Brain vs Body"论（[[Claude Code]] 是大脑，OpenClaw 是身体）暗示最终形态可能是融合。
 
+**Q2 新动态**：Microsoft Agent 365 GA（跨平台 Agent 控制面板）和 Google Gemini Enterprise Agent Platform 代表企业 Agent 路径的重大进展；而 [[案例-Citi 银行 Arc 平台]] 则展示了金融巨头如何构建自有 AI Agent 基础设施。
+
 ## 外部链接
 
 - [Anthropic](https://anthropic.com)

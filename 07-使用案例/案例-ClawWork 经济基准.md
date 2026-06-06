@@ -90,6 +90,12 @@ ClawWork 虽然是独立的学术项目，但它使用的 Agent 架构与 [[Open
 - 持久记忆和跨任务学习与 OpenClaw 的跨会话持久记忆一脉相承
 - 经济基准的结果也为 [[API 定价与成本分析]] 提供了重要的参考框架——ClawWork 的经济基准证明 Agent 的实际成本远低于人工，一个 $500 任务的 API 成本仅 $5-20
 
+## 相关笔记
+
+- [[案例-Nat Eliason 的 AI 创业实验]] — 真实商业验证
+- [[案例-Citi 银行 Arc 平台]] — 企业级 Agent 经济价值
+- [[AI Agent 市场趋势 2026 Q2]] — Q2 市场融资数据
+
 ## 来源
 
 - [GitHub - HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)

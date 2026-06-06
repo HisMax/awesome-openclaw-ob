@@ -59,6 +59,20 @@ Karpathy 将 OpenClaw 评价为：
 - [[AI Agent 安全态势 2026]]：88% 组织确认安全事件，Agent 快速普及的副作用也在加速显现
 - [[2026年3月AI行业动态]]：AI 市场达 910 亿美元，Gartner 预测全年 AI 支出 2.52 万亿，但开发者信任度从 40% 降至 29-33%——技术在狂奔，信任在掉队
 
+## Q2 里程碑更新（2026年4-6月）
+
+Q2 的数据进一步巩固了"2026 = Agent 元年"的论点：
+
+- **AI 融资**：Q2 AI 融资总额 $426 亿（312 轮），其中 Agentic 系统占 $200 亿——几乎占一半
+- **GPT-5.5 发布**（4.23）：OpenAI 新旗舰，专为 Agentic 任务（编码、研究、数据分析、自主工具导航）优化
+- **Claude 自递归**：Anthropic 宣布 Claude 写自身 80%+ 代码，工程师日均代码产出是 2024 年的 8 倍
+- **Gartner 首发 Agentic AI Hype Cycle**：Agentic AI 处于"膨胀期望峰值"，17% 组织已部署，60%+ 预期两年内部署
+- **Google A2A v1.2**：Agent2Agent 协议 150+ 组织在**生产环境**（非试点）使用
+- **MCP RC**：MCP 2026-07-28 Release Candidate 发布，无状态协议内核、Extensions 框架
+- **Microsoft Agent 365 GA**：跨 Microsoft/AWS/Google Cloud 的 Agent 控制面板
+- **[[EU AI Act 2026 进展|EU AI Act Omnibus]]**（5.7）：高风险系统审计推迟至 2027.12，合成媒体透明要求提前至 2026.12
+- **ZoomMate**（6.1）：$20/用户/月，会议笔记自动转文档/PPT——Agent 进入日常办公工具
+
 ## 相关笔记
 
 - [[Karpathy vs Altman Agent 元年之争]]
@@ -69,9 +83,12 @@ Karpathy 将 OpenClaw 评价为：
 - [[2026年3月AI行业动态]]
 - [[万亿参数模型竞赛]] — 模型规模竞赛对 Agent 元年的推动作用
 - [[开发者工具市场变革]] — Agent 元年背后的开发者工具生态变革
+- [[AI Agent 市场趋势 2026 Q2]] — Q2 市场全景
+- [[EU AI Act 2026 进展]] — 欧盟监管进展
 
 ## 外部链接
 
 - [OpenAI](https://openai.com)
 - [Anthropic](https://anthropic.com)
 - [Gartner AI](https://www.gartner.com/en/topics/artificial-intelligence)
+- [Gartner 2026 Hype Cycle for Agentic AI](https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai)

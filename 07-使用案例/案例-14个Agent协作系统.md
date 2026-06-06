@@ -96,6 +96,11 @@ graph LR
 - **阶段 3**：6+ Agent + 编排者（如 MFS Corp 的 6 Agent 架构）
 - **阶段 4**：14+ Agent + 高级编排者（本案例）
 
+## 相关笔记
+
+- [[案例-MFS Corp 零人类员工 AI 公司]] — 6 Agent 商业化案例
+- [[案例-Citi 银行 Arc 平台]] — 企业级多 Agent 平台
+
 ## 来源
 
 - [GitHub - Orchestrated AI Articles](https://github.com/adam91holt/orchestrated-ai-articles)

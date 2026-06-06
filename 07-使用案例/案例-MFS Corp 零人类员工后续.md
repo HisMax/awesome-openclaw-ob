@@ -40,8 +40,23 @@ MFS Corp 将 6 个 OpenClaw Agent 部署在 Proxmox PVE 9.1 上（48 核、503GB
 
 MFS Corp 验证了 [[2026 Agent 元年]] 中"AI 替代执行"的论点。Morgan 实质上是编排层，类似 [[案例-14个Agent协作系统|Kev's Dream Team]] 中 Opus 4.5 的 Orchestrator。$50/月运行一个"公司"得益于 [[OpenClaw 是什么|OpenClaw]] 的模型无关架构和 Ollama 本地推理。但 [[安全边界与风险（总览）|安全问题]] 不容忽视：6 个 Agent 共享 Proxmox 集群，一旦 Atlas 被 [[提示注入攻击]] 突破，整个"公司"可能沦陷，这与 [[案例-Jesse Genet 家庭教育系统]] 的物理隔离策略形成鲜明对比。从 [[Agent Flow Loop]] 和 [[多Agent协作架构]] 的角度看，这个案例展示了编排模式的可行性与局限性。
 
+## 行业跟进（2026 Q2）
+
+MFS Corp 的模式在 Q2 引发了更广泛的"零人类员工"实验浪潮：
+
+- **zeroemployee.company**：两个 AI Agent + 两个人类创始人，目标 2026 年内营收 $100 万，构建并销售完全由 AI 运营的数字产品
+- **AI 重启破产公司**：一组 AI 模型（Grok + Claude）尝试在零人类员工条件下重启一家旧破产公司
+- **Fortune 报道**：企业顾问公开声称"公司内人类员工的理想数量是零"，引发广泛讨论
+- **IMD 警告**："十亿美元零员工公司"概念需要警惕——技术可行性不等于商业可持续性
+
+预测时间线：2026 年加速裁员和创业颠覆 → 2027 年"真正开始冲击" → 2028 年大多数 2023 年前架构和团队面临危险。
+
+这些发展验证了 MFS Corp 作为"零人类员工"先行者的地位，但也暴露了规模化的挑战。参见 [[案例-Citi 银行 Arc 平台]] 了解企业级 AI Agent 平台的另一种路径。
+
 ## 来源
 
 - [DEV Community - How I Automated My Entire Business with OpenClaw](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-383c)
 - [The Verge - Zero-Employee AI Companies](https://theverge.com)
 - [Hacker News Discussion](https://news.ycombinator.com)
+- [Zero Employee Company](https://zeroemployee.company/)
+- [Fortune - Ideal Number of Employees Is Zero](https://fortune.com/2026/03/05/ideal-number-of-human-employees-is-zero-will-ai-take-jobs/)
