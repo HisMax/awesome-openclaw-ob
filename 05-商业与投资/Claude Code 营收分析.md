@@ -33,11 +33,11 @@ Claude Code 在 2026 年 5 月达到 **$25 亿+** 年化营收（较年初翻倍
 
 ## 分析
 
-$25 亿年化营收让 Claude Code 在 [[AI 编码助手市场数据|AI 编码助手市场]]中处于绝对领先地位。与 [[Cursor 的 ARR 突破|Cursor 的 $10 亿+ ARR]] 和 [[Replit Agent 分析|Replit 的 $1.5 亿 ARR]] 相比，Claude Code 的营收体量几乎是两者之和的两倍。
+$25 亿年化营收（2026.2 数据）让 Claude Code 在 [[AI 编码助手市场数据|AI 编码助手市场]]中处于领先地位，但竞品追赶迅速。[[Cursor 的 ARR 突破|Cursor 的 ARR]] 已从 2025 年底的 $10 亿增长至 2026.4 的 **$30 亿**，[[Replit Agent 分析|Replit]] 年化营收约 $5.25 亿——AI 编码赛道的竞争格局正在快速变化。
 
-翻倍增长的驱动力来自两方面：
+增长的驱动力来自两方面：
 
-1. **技术领先**：营收翻倍的底层原因是 Opus 4.6 在 [[SWE-Bench 基准测试]] 达到 80.8%——技术能力直接转化为商业价值。Opus 4.6 的 SWE-bench 80.8% 是最高分，Context Compaction 技术使代码破坏概率极低。在 [[AI 编码助手市场数据|模型能力趋同]]（80.0%~80.8%）的格局下，Anthropic 保持了微弱但关键的技术优势。
+1. **技术领先**：Opus 4.8 在 [[SWE-Bench 基准测试]] SWE-Bench Pro 达到 69.2%（领先 GPT-5.5 超 10 分），[[Dynamic Workflows]] 支持 1,000 子 Agent 编排——技术能力直接转化为商业价值。Context Compaction 技术使代码破坏概率极低。
 
 2. **企业渗透**：50%+ 的企业订阅占比意味着 Claude Code 不仅仅是独立开发者的工具。企业客户意味着更高的 ARPU、更低的流失率和更强的 [[Anthropic 公司分析|定价能力]]。
 

@@ -23,7 +23,7 @@ aliases:
 
 [[AI Agent 市场规模]] 预测 CAGR 40-50%，2030 年市场规模 $426-$527 亿。
 
-[[Fortune 500 企业 AI Agent 数据|Fortune 500 企业 AI Agent 部署]] 数据显示 80%+ Fortune 500 企业已部署 AI Agent，但 Gartner 指出仅 8% 组织在生产环境部署，说明增长空间巨大。
+[[Fortune 500 企业 AI Agent 数据|Fortune 500 企业 AI Agent 部署]] 数据显示 80%+ Fortune 500 企业已部署 AI Agent，Gartner 最新数据显示 17% 组织已在生产环境部署（较此前 8% 大幅提升），但仍有巨大增长空间。
 
 ## 生态估值信号
 

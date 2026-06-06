@@ -208,7 +208,7 @@ v2026.4.15 强化了插件运行时隔离：
 | CVE-2026-44112 | 9.6 (Critical) | TOCTOU 写入 | 沙箱逃逸，在宿主写入后门和配置篡改 |
 | CVE-2026-44113 | 7.7 (High) | TOCTOU 读取 | 沙箱外敏感文件读取 |
 | CVE-2026-44115 | 8.8 (High) | Shell 白名单绕过 | 通过 heredoc 内嵌 shell 扩展令牌执行未授权命令 |
-| CVE-2026-44118 | 7.8 (High) | MCP Loopback 提权 | 非 owner 客户端冒充 owner 控制 Gateway 配置 |
+| CVE-2026-44118 | 8.2 (High) | MCP Loopback 提权 | 非 owner 客户端冒充 owner 控制 Gateway 配置 |
 
 ### 攻击链分析
 

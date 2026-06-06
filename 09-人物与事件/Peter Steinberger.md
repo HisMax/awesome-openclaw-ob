@@ -64,7 +64,7 @@ aliases:
 
 ## 创始人离开的影响
 
-Steinberger 加入 OpenAI 后，项目转交 [[OpenClaw Foundation 治理|独立基金会]]。截至 2026 年 6 月，项目在 Steinberger 离开后保持爆发式增长——GitHub Stars 从 237K 增长至 **375K+**（超越 React 成为 GitHub 最多 star 的软件项目），贡献者从 100+ 增至 **1,200+**，ClawHub Skills 从 5,705 增至 **44,000+**，月活用户 **320 万**。社区治理模式的有效性得到了充分验证。
+Steinberger 加入 OpenAI 后，项目转交 [[OpenClaw Foundation 治理|独立基金会]]。截至 2026 年 6 月，项目在 Steinberger 离开后保持爆发式增长——GitHub Stars 从 237K 增长至 **375K+**（超越 React 成为 GitHub 最多 star 的软件项目），贡献者从 100+ 增至 **1,200+**，ClawHub Skills 从 5,705 增至 **13,000+**，月活用户 **320 万**。社区治理模式的有效性得到了充分验证。
 
 ## 相关笔记
 

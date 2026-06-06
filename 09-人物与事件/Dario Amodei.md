@@ -86,7 +86,7 @@ MCP 已有 **9700 万+月 SDK 下载**和 **10,000+ 活跃服务器**，成为 A
 
 ## 关键洞察
 
-Amodei 的战略困境在于：他既要推动 Claude 的商业化（年化营收已达 $300 亿+），又要维护 AI 安全的品牌形象（[[Constitutional AI]]、Project Glasswing）。商标执法事件暴露了这种张力——保护品牌的合理行为，却被社区解读为对开源生态的敌意，最终将 [[Peter Steinberger]] 和整个 OpenClaw 生态推向了竞争对手 [[Sam Altman|OpenAI]]。但 2026 年中期的格局正在逆转：[[Andrej Karpathy]] 加入 Anthropic、近万亿估值超越 OpenAI、Mythos 模型在安全领域的突破，都在重塑 Anthropic 的竞争地位。半人马阶段理论本身是深刻的，但它也隐含了一个不安的预测：人类的"必要性"窗口正在关闭。
+Amodei 的战略困境在于：他既要推动 Claude 的商业化（年化营收从 2026.4 的 $300 亿+飙升至 Series H 时的 $470 亿+），又要维护 AI 安全的品牌形象（[[Constitutional AI]]、Project Glasswing）。商标执法事件暴露了这种张力——保护品牌的合理行为，却被社区解读为对开源生态的敌意，最终将 [[Peter Steinberger]] 和整个 OpenClaw 生态推向了竞争对手 [[Sam Altman|OpenAI]]。但 2026 年中期的格局正在逆转：[[Andrej Karpathy]] 加入 Anthropic、近万亿估值超越 OpenAI、Mythos 模型在安全领域的突破，都在重塑 Anthropic 的竞争地位。半人马阶段理论本身是深刻的，但它也隐含了一个不安的预测：人类的"必要性"窗口正在关闭。
 
 ## 外部链接
 

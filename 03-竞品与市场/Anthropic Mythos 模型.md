@@ -48,7 +48,7 @@ USAMO（美国数学奥林匹克）的 +55.3 分跳跃是整个 benchmark 表中
 |-----------|------|------|
 | SWE-Bench Verified | **93.9%** | 打破所有已知纪录 |
 
-93.9% 的 SWE-Bench Verified 意味着什么？[[Claude Opus 4.7-4.8 发布|Opus 4.8]] 是 88.6%，[[GPT-5.5 发布|GPT-5.5]] 更低——Mythos 在编码能力上对所有公开模型形成了代际领先。
+93.9% 的 SWE-Bench Verified 意味着什么？[[Claude Opus 4.7-4.8 发布|Opus 4.8]] 是 88.6%，[[GPT-5.5 发布|GPT-5.5]] Verified 为 88.7%（两者接近），但 SWE-Bench Pro 上 Opus 4.8 以 69.2% 大幅领先 GPT-5.5 的 58.6%——而 Mythos 以 93.9% 对所有公开模型形成了代际领先。
 
 ### 网络安全能力
 
@@ -159,12 +159,12 @@ GPT-5.4       ━━━━━━━━━━━━━━━━━━━         
 Gemini 3.5 Pro ━━━━━━━━━━━━━━━━━━           ↓
 ```
 
-Mythos 与 Opus 4.8 之间的差距（SWE-Bench 93.9% vs 88.6%）比 Opus 4.8 与 GPT-5.5 之间的差距更大——这说明 Anthropic 在模型能力上保留了显著的"战略储备"。
+Mythos 与 Opus 4.8 之间的差距（SWE-Bench Verified 93.9% vs 88.6%，+5.3pp）远大于 Opus 4.8 与 GPT-5.5 之间的微小差距（88.6% vs 88.7%，Verified 上几乎持平）——这说明 Anthropic 在模型能力上保留了显著的"战略储备"，而公开市场的两强竞争已趋于饱和。
 
 ## 相关节点
 
 - [[Claude Opus 4.7-4.8 发布]]——Mythos 之下的公开旗舰模型
 - [[Claude Code 2026年Q2更新]]——Mythos 能力对编码工具的影响
 - [[OpenClaw vs Claude Code]]——竞争分析
-- [[AI编码安全风险]]——AI 模型的安全边界
+- [[AI 代码生成安全问题]]——AI 模型的安全边界
 - [[2026年Q2竞品新入局]]——行业竞争格局

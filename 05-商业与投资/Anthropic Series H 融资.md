@@ -125,7 +125,7 @@ H 轮融资的影响辐射整个 Anthropic 生态：
 - **[[MCP 协议]]**：更多资金意味着 MCP 标准化加速（见 [[MCP 2026年Q2进展]]）
 - **Claude Code**：扩展算力直接提升 Claude Code 的并发能力和响应速度
 - **OpenClaw**：作为 Anthropic 模型的主要消费者之一，OpenClaw 间接受益于 Claude 能力提升
-- **安全研究**：融资公告明确提到"推进安全和可解释性研究"——这与 [[Anthropic Mythos]] 的争议形成呼应
+- **安全研究**：融资公告明确提到"推进安全和可解释性研究"——这与 [[Anthropic Mythos 模型|Anthropic Mythos]] 的争议形成呼应
 
 ## 关键洞察
 
