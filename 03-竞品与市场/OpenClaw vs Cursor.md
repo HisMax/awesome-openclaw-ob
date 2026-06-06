@@ -30,3 +30,4 @@ aliases:
 ## 相关
 
 - [[竞品对比总览]]
+- [[Cursor 2026年Q2更新]] — 3.6 Auto-review、3.7 Design Mode

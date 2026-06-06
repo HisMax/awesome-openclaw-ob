@@ -45,6 +45,11 @@ Remote Control 和 [[OpenClaw vs Claude Code Remote Control|OpenClaw]] 的本质
 
 - [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code)
 
+## 2026年Q2关联
+
+- Claude Cowork 的 **Dispatch 功能** 提供了类似的"手机操控电脑端 Agent"能力，但面向非开发者
+- Claude Code 的 **Dynamic Workflows**（详见 [[Claude Code 2026年Q2更新]]）进一步扩展了远程操控的价值——手机端可以监控千级子 Agent 的执行状态
+
 ## 来源
 
 - [VentureBeat - Claude Code Remote Control](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)

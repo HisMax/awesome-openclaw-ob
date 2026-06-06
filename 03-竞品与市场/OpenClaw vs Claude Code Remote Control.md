@@ -38,3 +38,4 @@ aliases:
 - [[OpenClaw vs Claude Code]]
 - [[Claude Code 分析]]
 - [[竞品对比总览]]
+- [[Claude Code 2026年Q2更新]] — Dynamic Workflows 进一步扩展远程操控价值

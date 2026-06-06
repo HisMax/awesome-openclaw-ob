@@ -81,6 +81,15 @@ rentamac.io 的 "Brain vs Body" 论述精确概括了这个关系：**Claude 是
 
 - [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code)
 
+## 2026年Q2更新
+
+Cowork 在 Q2 显著扩展了能力边界：
+- **Windows 版发布**（2026.2.10），覆盖 70% 桌面用户
+- **Dispatch 功能**：手机下发任务、电脑执行——部分回应了"离开电脑就无法使用"的限制
+- **Computer Use 研究预览**：AI 可直接控制桌面——正在向 OpenClaw 的"全系统访问"方向靠拢，但仍在 Anthropic 安全框架内
+
+这些更新使 Cowork 与 OpenClaw 的能力差距正在缩小，但核心哲学分歧（安全优先 vs 能力优先）未变。
+
 ## 相关
 
 - [[竞品对比总览]]

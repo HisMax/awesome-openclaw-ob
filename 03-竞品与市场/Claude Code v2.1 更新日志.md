@@ -71,3 +71,5 @@ Claude Code 在 2026 年 3 月迎来了一波密集更新，从 v2.1.68 到 v2.1
 - [[Agentic Coding]]
 - [[多Agent协作架构]]
 - [[Claude Code 2026年3月更新]] — 3月后续更新：v2.1.81、Agent Teams、Agent SDK
+- [[Claude Code 2026年Q2更新]] — Q2 重大更新：Dynamic Workflows、ultracode、Auto Mode
+- [[Claude Opus 4.7-4.8 发布]] — Opus 4.7/4.8 模型迭代

@@ -79,15 +79,25 @@ Project Mariner 代表了大厂做 AI Agent 的典型思路：
 
 两者定位截然不同：Mariner 是**安全可控的浏览器自动化工具**，OpenClaw 是**自由但自负风险的通用 AI 助手**。这也是 API 定价与成本分析中两种商业模式的缩影。
 
+## 2026年Q2更新——项目关停
+
+> **Google 于 2026.5.4 正式关停 Project Mariner**，结束了长达 17 个月的实验。
+
+- 2026 年 3 月已有内部人员被调离 Mariner 团队的迹象
+- 关停原因：截图→识别→操作的工作流速度慢、成本高、容易出错
+- **技术去向**：Mariner 的核心技术被整合到 **Gemini Agent** 和 Chrome 的 **auto-browse** 功能中
+- 独立工具已停止运行，但其浏览器自动化理念延续在 Google 主产品线中
+
 ## 相关对比
 
-- [[OpenClaw vs Google Project Mariner]]——详细对比表
+- [[OpenClaw vs Google Project Mariner]]——详细对比表（注：Mariner 已关停，对比仅作为历史参考）
 - [[竞品对比总览]]——全景视图
 - [[案例-Tesco 超市自动购物]]——OpenClaw 浏览器控制的实际案例
+- [[2026年Q2竞品新入局]] — Q2 市场全景
 
 ## 外部链接
 
-- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)
+- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)（已关停）
 
 ## 来源
 

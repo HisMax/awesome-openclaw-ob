@@ -96,5 +96,6 @@ graph TD
 - [[竞品对比总览]]
 - [[案例-Summer Yue 邮件删除灾难]]
 - [[安全边界与风险（总览）]]
+- [[GitHub Copilot 2026年Q2更新]] — Copilot 转向 AI Credits 计费、Copilot App 技术预览
 
 > 来源：[MakeUseOf](https://www.makeuseof.com/microsoft-answer-to-openclaw-looks-pretty-great/)

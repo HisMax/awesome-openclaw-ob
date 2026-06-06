@@ -67,6 +67,7 @@ Composer 2 是 Cursor 本月最具争议的更新：
 - [[Vibe Coding 融资爆发]] — 行业融资总览
 - [[MCP 协议 2026年3月进展]] — MCP 协议动态
 - [[竞品对比总览]]
+- [[Cursor 2026年Q2更新]] — Q2 后续：3.6 Auto-review、3.7 Design Mode
 
 ## 外部链接
 

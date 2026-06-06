@@ -66,6 +66,8 @@ aliases:
 - [[2026年3月AI行业动态]] — 行业大背景
 - [[GPT 模型系列]]
 - [[竞品对比总览]]
+- [[GitHub Copilot 2026年Q2更新]] — Q2 后续：AI Credits、Copilot App、usage-based billing
+- [[GPT-5.5 发布]] — OpenAI 最新模型
 
 ## 外部链接
 

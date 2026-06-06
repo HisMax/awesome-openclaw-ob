@@ -101,11 +101,22 @@ Windsurf 和 OpenClaw 几乎没有功能重叠：
 - 这一定价调整发生在 [[Vibe Coding 融资爆发]] 背景下——当 Cursor 融资 23 亿、Lovable 融资 3.3 亿时，Windsurf 需要用更清晰的定价策略来吸引和留住用户
 - 配额制的核心变化：用户不再需要关心每次 AI 调用消耗多少信用，而是按月获得固定的使用配额
 
+## 最新动态（2026年Q2）——品牌终结
+
+> **2026.6.2，Windsurf 正式更名为 Devin Desktop。** 详见 [[Windsurf 更名 Devin Desktop]]。
+
+- Cognition 通过 OTA 更新将 Windsurf 更名为 Devin Desktop
+- Cascade Agent 被 Rust 重写的 **Devin Local** 取代（30% token 效率提升）
+- 默认界面从代码编辑器切换为 **Agent Command Center**——以 Agent 为中心而非以代码为中心
+- 旧版 Cascade 支持截止日期：2026.7.1
+- "Windsurf"作为独立品牌已不复存在，本笔记保留作为历史记录
+
 ## 相关笔记
 
 - [[竞品对比总览]]
 - [[AI 编码助手市场数据]]
 - [[竞品成本对比]]
 - [[Vibe Coding 融资爆发]] — 行业融资背景
+- [[Windsurf 更名 Devin Desktop]] — 品牌整合完整记录
 
 > 来源：[Skywork - 4-Tool Comparison](https://skywork.ai/blog/ai-agent/openclaw-vs-cursor-claude-code-windsurf-comparison/)

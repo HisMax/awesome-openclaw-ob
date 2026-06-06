@@ -26,9 +26,13 @@ Mariner 是浏览器内的自动化专家（83.5% 任务成功率），但竞品
 
 OpenClaw 是消息界面中的通用个人助手，不局限于浏览器场景。两者都是 Agentic AI 浪潮中的重要产品，但面向的自主执行领域截然不同。
 
+## 2026年Q2更新
+
+> **Google 于 2026.5.4 正式关停 Project Mariner**。核心技术被并入 Gemini Agent 和 Chrome auto-browse 功能。本对比文件仅作为历史参考保留。
+
 ## 外部链接
 
-- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)
+- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/)（已关停）
 
 ## 相关
 

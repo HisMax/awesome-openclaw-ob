@@ -51,6 +51,7 @@ aliases:
 ## 相关笔记
 
 - [[Cursor 2026年3月更新]] — Cursor 3月完整更新
+- [[Cursor 2026年Q2更新]] — Q2 后续：3.6 Auto-review、3.7 Design Mode
 - [[Cursor 分析]] — Cursor 基本信息与定位
 - [[DeepSeek]] — 中国 AI 模型参考
 - [[AI 编码助手市场数据]] — 市场竞争格局
