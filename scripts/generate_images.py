@@ -9,7 +9,7 @@ ROOT = Path("/Users/mozi/projects/09-OpenClaw知识库")
 ASSETS = ROOT / "assets"
 TEMPLATE = ASSETS / "template-base.png"
 API_URL = "https://api.bltcy.ai/v1/images/generations"
-API_KEY = "***REDACTED***"
+API_KEY = os.environ.get("BLTCY_API_KEY", "")
 MAX_WORKERS = 4
 
 with open(TEMPLATE, "rb") as f:
