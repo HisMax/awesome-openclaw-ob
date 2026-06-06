@@ -53,7 +53,27 @@ HN 社区的清醒声音：
 
 Vibe Coding 从概念变成了资本市场的热门赛道。Lovable 融资 3.3 亿美元（估值 66 亿）、Cursor 融资 23 亿美元、Replit 估值飙升至 90 亿美元。Salesforce 推出 Agentforce Vibes，LinkedIn 推出 Vibe Coding 技能认证。详见 [[Vibe Coding 融资爆发]]。
 
+## 2026年中：安全危机与"VibeSec 清算"
+
+Vibe Coding 的高速扩张开始暴露严重后果：
+
+**安全数据恶化**：
+- **40-62%** 的 AI 生成代码包含安全缺陷
+- AI 未能防御跨站脚本攻击（XSS）的概率高达 **86%**
+- 2026 年 3 月单月新增 **35 个 CVE** 直接归因于 AI 生成代码（1 月仅 6 个）
+- 一款纯 vibe coding 开发的应用发生重大数据泄露，暴露 **150 万 API 密钥 + 3.5 万用户邮箱**
+
+**行业反思**：
+- Martin Fowler 发表《VibeSec Reckoning》，系统批判 vibe coding 的安全隐患
+- Apple 从 App Store 下架无法保证安全的 vibe coding 应用
+- 开源社区报告大量 AI 生成的低质量 PR 和代码涌入，影响维护负担
+- 2026 年美国开发者中 **92%** 日常使用 AI 编码工具，全球 **41%** 代码由 AI 生成——规模放大了安全风险
+
+**从 Vibe Coding 到 Agentic Engineering**：Karpathy 本人已将注意力转向 "agentic engineering"，承认 vibe coding 适合原型但不足以支撑生产工程。行业正从"忘记代码存在"转向"编排 Agent 做专业工程"。详见 [[Agentic Coding]]。
+
 ## 相关笔记
 
 - [[OpenClaw 是什么]]
 - [[Vibe Coding 融资爆发]] — 2026年3月融资数据
+- [[Agentic Coding]] — Vibe Coding 的进化方向
+- [[ACP 协议]] — Agent 编排的标准化协议

@@ -3,7 +3,7 @@ title: GPT 模型系列
 aliases: [GPT, OpenAI GPT, ChatGPT]
 category: 模型分析
 created: 2026-03-14
-updated: 2026-03-14
+updated: 2026-06-06
 tags: [OpenAI, GPT, LLM, ChatGPT]
 ---
 
@@ -23,23 +23,29 @@ tags: [OpenAI, GPT, LLM, ChatGPT]
 | GPT-5.2 | 2025 末 | 推理错误和幻觉显著减少，开源 gpt-oss-120b |
 | GPT-5.3 Instant | 2026.03.03 | 400K 上下文，幻觉再降26.8% |
 | GPT-5.4 | 2026.03.05 | 1M 上下文，原生 Computer Use，5级推理深度 |
+| GPT-5.5 | 2026.04.23 | SWE-Bench Verified 88.7%，幻觉再降60%，MMLU 92.4% |
+| GPT-5.5 Instant | 2026.05.05 | 替代 GPT-5.3 Instant 成为 ChatGPT 免费用户默认模型 |
 
-## GPT-5.4：当前最新旗舰
+## GPT-5.5：当前最新旗舰
 
-GPT-5.4 是截至2026年3月 OpenAI 最强模型，关键能力：
+GPT-5.5 是截至2026年6月 OpenAI 最强模型，于 2026 年 4 月 23 日发布，关键能力：
 
-- **1M token 上下文窗口**：可一次分析完整代码库或大型文档集
-- **可配置推理深度**：none / low / medium / high / xhigh 五档，按需平衡速度与质量
-- **原生 Computer Use**：首个通用模型支持操作电脑执行复杂工作流
-- **GDPval 基准**：在44个职业的知识工作评测中，83.0%的对比中达到或超过人类专家水平
+- **SWE-Bench Verified 88.7%**：超越 Claude Opus 4.7 的 87.6%，但在更难的 SWE-Bench Pro 上落后（58.6% vs Opus 4.7 的 64.3%）
+- **MMLU 92.4%**：通用知识理解达到新高
+- **幻觉降低 60%**：相比 GPT-5.4 大幅减少事实性错误
+- **深度任务执行**：编写调试代码、在线研究、数据分析、创建文档和电子表格、操作软件等端到端任务
 
-### GPT-5.4 Pro
+### GPT-5.5 Pro
 
-为 Pro/Enterprise 用户提供的增强版，使用更多计算资源进行深度推理，适合最高难度任务。
+$30/$180 每百万 token，使用更多计算资源进行深度推理，适合最高难度任务。
+
+### GPT-5.5 Instant
+
+2026 年 5 月 5 日发布，替代 GPT-5.3 Instant 成为 ChatGPT 所有用户（含免费用户）的默认模型。
 
 ## 定价与经济性
 
-GPT-5.4 输出 token 成本约为 Claude Opus 4.6 的 40%，在性能相当的前提下，大规模部署经济优势明显。这改变了前沿模型的成本格局（详见 [[API 定价与成本分析]]）。
+GPT-5.5 API 定价为 $5/$30 每百万 token（input/output），与 Claude Opus 4.8 的 $5/$25 接近。GPT-5.5 Pro 则为 $30/$180，面向高计算需求场景。性能相当的前提下，两家的成本差异已大幅缩小（详见 [[API 定价与成本分析]]）。
 
 ## 开源动作
 
@@ -49,14 +55,15 @@ OpenAI 发布了 **gpt-oss-120b**——117B 参数的 MoE 架构模型，MIT 许
 
 [[OpenClaw 是什么]] 通过 [[模型无关架构]] 支持 GPT 系列：
 
-- GPT-5.4 适合需要 Computer Use 的桌面自动化场景
-- GPT-5.3 Instant 适合高频低延迟的批量任务
+- GPT-5.5 适合需要全栈任务执行的复杂场景
+- GPT-5.5 Instant 适合高频低延迟的批量任务
+- OpenAI OAuth 仍支持第三方工具接入（与 Anthropic 封杀第三方 OAuth 形成对比）
 - 通过统一的 API 抽象层切换，无需改动 Agent 逻辑
 - 与 MCP 协议兼容的工具调用格式
 
 ## 遗留与淘汰
 
-GPT-4o、GPT-4、GPT-3.5 正在逐步淘汰。GPT-5.2 Thinking 将于 2026年6月5日退役。建议新项目直接使用 GPT-5.4。
+GPT-4o、GPT-4、GPT-3.5 已逐步淘汰。GPT-5.2 Thinking 已于 2026 年 6 月 5 日退役。GPT-5.3 Instant 被 GPT-5.5 Instant 替代。建议新项目直接使用 GPT-5.5。
 
 ## 延伸阅读
 

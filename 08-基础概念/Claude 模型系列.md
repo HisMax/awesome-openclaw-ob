@@ -3,7 +3,7 @@ title: Claude 模型系列
 aliases: [Claude, Anthropic Claude, Claude AI]
 category: 模型分析
 created: 2026-03-14
-updated: 2026-03-14
+updated: 2026-06-06
 tags: [Anthropic, Claude, LLM, Constitutional-AI]
 ---
 
@@ -30,6 +30,9 @@ tags: [Anthropic, Claude, LLM, Constitutional-AI]
 - **Claude 4.5 Opus**（2025.11）：降价67%，高端智能平民化
 - **Claude Opus 4.6**（2026.02）：Agent 团队协作、1M 上下文 GA、多 Agent 协调
 - **Claude Sonnet 4.6**（2026.02）：Computer Use 准确率达94%，首次在编码评测中超越上代 Opus
+- **Claude Opus 4.7**（2026.04.16）：SWE-bench Verified 87.6%、Pro 64.3%，复杂软件工程和视觉能力大幅提升
+- **Claude Opus 4.8**（2026.05.28）：SWE-bench Verified 88.6%、Pro 69.2%，搭载 [[Dynamic Workflows]] 大规模 Agent 编排，4x 低于 4.7 的代码缺陷遗漏率，支持 Fast Mode（2.5x 吞吐）
+- **Claude Mythos Preview**（2026.04.07）：网络安全专用旗舰模型，SWE-bench Verified 93.9%，通过 Project Glasswing 向 150+ 组织（15+ 国家）提供零日漏洞发现能力，尚未公开发布
 
 ## Constitutional AI：Claude 的灵魂
 
@@ -62,3 +65,5 @@ OpenClaw 默认推荐 Claude 作为主力模型，原因：
 
 - [[OpenClaw 是什么]] — Agent 框架中的 Claude 角色
 - [[Claude Code 2026年3月更新]] — v2.1.81 搭载 Opus 4.6（100万 token 上下文）
+- [[Dynamic Workflows]] — Opus 4.8 搭载的大规模 Agent 编排能力
+- [[ACP 协议]] — Claude Code 原生支持的编辑器-Agent 通信标准

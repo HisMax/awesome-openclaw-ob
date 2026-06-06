@@ -38,6 +38,7 @@ App X → 用 Token 请求资源服务器 → 获取用户数据
 - **影响**：OpenCode 等工具一夜失效，部分 Max $200/月用户因误触滥用过滤器被封号
 - **George Hotz 警告**："你不会把人赶回 Claude Code，你只会把他们赶向其他模型提供商"
 - **后续**：Anthropic 承认误封并回滚部分封禁；OpenAI 趁机明确支持 ChatGPT 订阅登录。OAuth 封杀直接催生了 [[OpenClaw Wrapper 创业潮]]——当官方渠道被堵死，创业者嗅到了"帮用户绕过限制"的商机，117 家 wrapper 公司应运而生
+- **2026 年 4 月彻底封死**：Anthropic 于 4 月 4 日切断所有第三方工具使用 Claude 订阅积分的通道，第三方工具使用现在只能通过"额外用量"计费或 API Key。OAuth 路径已完全关闭，API Key（按量付费）成为推荐方式——成本透明且无封号风险。**OpenAI OAuth 仍支持第三方工具接入**，形成差异化
 
 ### Composio 的角色
 

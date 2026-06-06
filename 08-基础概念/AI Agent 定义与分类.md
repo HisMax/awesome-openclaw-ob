@@ -3,7 +3,7 @@ title: AI Agent 定义与分类
 aliases: [AI智能体, Agent分类]
 tags: [concept, Agent, classification, feynman]
 created: 2026-03-14
-updated: 2026-03-14
+updated: 2026-06-06
 sources:
   - https://fleeceai.app/blog/what-is-an-ai-agent-definition-types-examples
   - https://nexos.ai/blog/what-are-ai-agents/
@@ -32,7 +32,20 @@ sources:
 | **效用驱动式** | 不仅达到目标，还要找最优解 | 理财顾问 |
 | **学习式** | 能从错误中学习，越用越聪明 | 实习生 → 老员工 |
 
-2026 年还出现了**多 Agent 系统**——多个 Agent 协作，像一个团队各司其职（详见 [[多Agent协作架构]] 和 Agent 编排模式）。
+2026 年还出现了**多 Agent 系统**——多个 Agent 协作，像一个团队各司其职（详见 [[多Agent协作架构]] 和 Agent 编排模式）。Claude Code 的 [[Dynamic Workflows]] 可在单次任务中编排最多 1,000 个子 Agent。
+
+### 2026 年新分类体系
+
+经典五分类之外，2026 年行业形成了更贴合市场的**四级阶梯**：
+
+| 级别 | 类型 | 代表产品 | 核心区别 |
+|------|------|----------|----------|
+| L1 | 聊天机器人 | 基础 ChatGPT | 单轮问答 |
+| L2 | 副驾驶（Copilot） | GitHub Copilot | 辅助补全，人主导 |
+| L3 | Agent | Claude Code、OpenClaw | 自主规划+执行，人审批 |
+| L4 | 数字员工 | 持久运行的 Agent 团队 | 长期角色，跨任务记忆 |
+
+另一种**按行为分类**的维度将 Agent 分为四类：反应式（响应触发器）、规划式（分解目标）、协作式（多 Agent 团队）、持久式（长期运行的数字员工）。
 
 ## 自主性光谱
 
@@ -63,4 +76,4 @@ graph LR
 
 ---
 
-**相关笔记：** [[Agentic AI]] | OpenClaw 是什么 | Agent Execution Loop | 自主决策循环 | [[Tool Use 机制]] | [[记忆系统]] | [[AI Agent 市场规模]]
+**相关笔记：** [[Agentic AI]] | OpenClaw 是什么 | Agent Execution Loop | 自主决策循环 | [[Tool Use 机制]] | [[记忆系统]] | [[AI Agent 市场规模]] | [[Dynamic Workflows]] | [[ACP 协议]]
