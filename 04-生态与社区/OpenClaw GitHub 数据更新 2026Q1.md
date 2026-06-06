@@ -59,6 +59,7 @@ aliases:
 
 ## 相关笔记
 
+- [[OpenClaw GitHub 数据更新 2026Q2]] — Q2 最新数据：375K Stars、MAU 320 万、网站 3800 万月访问
 - [[OpenClaw GitHub 数据分析]] — 完整的历史增长轨迹
 - [[OpenClaw 赞助商]] — 赞助商详细分析
 - [[OpenClaw 生态系统形成速度]] — 生态形成速度数据

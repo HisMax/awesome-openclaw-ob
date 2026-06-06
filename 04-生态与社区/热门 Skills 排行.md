@@ -28,6 +28,10 @@ aliases:
 - **Self-Improving Agent** 虽下载量排第 4，但以 132 stars 成为社区评分最高的 Skill
 - AI 自进化类 Skills 需求旺盛，体现了 [[Agent-Flow-Loop 原理]] 的社区实践方向
 
+## Q2 生态变化
+
+ClawHub 总技能数已从清理后的 3,286 增长至 **13,000+**（详见 [[OpenClaw GitHub 数据更新 2026Q2]]），总下载量达 **3,900 万+**。排行榜数据可能已发生变化，但"自我进化"类 Skills 的领先地位反映了社区对 Agent 自我改进能力的持续兴趣。
+
 ## 相关笔记
 
 - [[ClawHub 官方技能注册表]]

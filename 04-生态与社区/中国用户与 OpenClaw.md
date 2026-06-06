@@ -39,11 +39,20 @@ aliases:
 ## 中国模型集成
 
 OpenClaw 的[[模型无关架构]]使中国本土 LLM 无缝接入：
-- 智谱 GLM-5
-- MiniMax M2.5
+- [[Z.AI GLM 4.5-4.6 系列|智谱 GLM 4.5/4.6]]
+- [[MiniMax M2.7 系列|MiniMax M2.7]]
+- [[Xiaomi MiMo 提供商|小米 MiMo V2]]
+- [[Qwen DashScope 提供商|阿里 Qwen（DashScope）]]
 - 月之暗面 Kimi K2.5
 
 中国用户称这些模型为 "value for money"——接近闭源模型能力，但成本极低。
+
+## Q2 中国生态更新
+
+- **百度** 成为首个赞助 OpenClaw 的中国大型科技公司（2026 年 3 月 14 日）
+- [[ClawCon 2026 Q2|ClawCon Singapore]] 成为亚洲首站，辐射中国和东南亚开发者社区
+- [[AAIF 基金会]] MCP Dev Summit 上海站定于 2026 年 9 月 6-7 日举办
+- [[飞书集成]] 的深度接入持续推进 OpenClaw 在中国企业市场的渗透
 
 ## 下载数据
 

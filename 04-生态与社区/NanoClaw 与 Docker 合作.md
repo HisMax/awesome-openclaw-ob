@@ -35,6 +35,15 @@ aliases:
 
 NanoClaw 与 Docker 的合作并非对 OpenClaw 的威胁，而是生态多样化的体现。正如 [[OpenClaw 核心生态项目]] 所示，多层次的解决方案（从轻量级的 NanoClaw 到全功能的 OpenClaw，再到企业级的 [[NVIDIA NemoClaw 企业版|NemoClaw]]）构成了完整的 Agent 框架光谱。
 
+## Q2 更新
+
+NanoClaw 在合作公布后快速增长：
+
+- GitHub Stars 突破 **20,000**
+- 累计下载量超过 **100,000 次**
+- 最新版本 **v1.2.53**（2026 年 4 月 15 日），增强了 token 计数和 SDK 配置
+- 每个 NanoClaw Agent 运行在独立的 MicroVM 级 Docker Sandbox 中，实现操作系统级隔离
+
 ## 相关笔记
 
 - [[NanoClaw]] — NanoClaw 技术详情与 OpenClaw 对比

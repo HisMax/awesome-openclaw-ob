@@ -24,7 +24,9 @@ OpenClaw 在 GitHub 上创造了惊人的增长记录：
 | 2026.2.14 | ~175,000 |
 | 2026.2.25 | **226,887** |
 | 2026.2.28 | **~237,000** |
-| 2026.3（最新） | **331,000+**（详见 [[OpenClaw GitHub 数据更新 2026Q1]]） |
+| 2026.3（Q1） | **334,000+**（详见 [[OpenClaw GitHub 数据更新 2026Q1]]） |
+| 2026.4 初 | **350,600+**（超越 React，GitHub 史上最多 Stars 软件项目） |
+| 2026.5-6（Q2 最新） | **375,000+**（详见 [[OpenClaw GitHub 数据更新 2026Q2]]） |
 
 ## 历史对比
 
@@ -46,9 +48,9 @@ OpenClaw 在 GitHub 上创造了惊人的增长记录：
 
 ## 贡献者数据
 
-- 866+ GitHub 贡献者（详见 [[OpenClaw 社区活动与生态]]）
+- **1,200+** GitHub 贡献者（截至 2026 年 Q2，详见 [[OpenClaw 社区活动与生态]]）
 - 项目采用 MIT License，由 [[Peter Steinberger]] 发起，现归 [[OpenClaw Foundation 治理|OpenClaw Foundation]]
-- 截至 2026 年 3 月，活跃赞助商已扩展至 185 家（详见 [[OpenClaw GitHub 数据更新 2026Q1]]）
+- 截至 2026 年 Q2，活跃赞助商持续扩展，新增 GitHub、Baidu 等（详见 [[OpenClaw GitHub 数据更新 2026Q2]]）
 - 增长趋势也被 Twitter 和 Reddit 广泛讨论
 
 ## 外部链接

@@ -44,6 +44,7 @@ aliases:
 - [[非技术用户桌面应用]]
 - [[Skills 市场]]
 - [[OpenClaw 是什么]]
+- [[ACP v1 生态扩展]] — ACPX 是 ACP 协议的 headless CLI 客户端
 
 ## 外部链接
 

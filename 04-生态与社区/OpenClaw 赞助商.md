@@ -77,6 +77,13 @@ OpenClaw 是唯一采用"开源 + 赞助"模式的主要 AI Agent 项目。
 
 截至 2026 年 3 月，活跃赞助商已从 3 家扩展至 **185 家**，新增的重要赞助商包括 Tencent、TencentCloud、Volcengine（火山引擎）、Vercel 等。中国科技企业的加入标志着 OpenClaw 在亚洲市场获得了企业级信任。详见 [[OpenClaw GitHub 数据更新 2026Q1]]。
 
+## Q2 赞助商更新
+
+- **GitHub** 于 2026 年 4 月初成为官方赞助商，并提供 Copilot Pro+、安全资金等支持
+- **百度** 成为首个赞助 OpenClaw 的中国大型科技公司（2026 年 3 月 14 日）
+- **NVIDIA NemoClaw** 企业安全栈的发布合作伙伴包括 Box、Cisco、Atlassian、Salesforce、SAP、CrowdStrike
+- 完整 Q2 生态数据见 [[OpenClaw GitHub 数据更新 2026Q2]]
+
 ## 相关笔记
 
 - [[OpenClaw 项目治理变迁]]

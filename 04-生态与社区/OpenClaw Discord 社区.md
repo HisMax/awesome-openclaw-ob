@@ -23,7 +23,7 @@ OpenClaw 的官方 Discord 社区是生态系统的核心沟通枢纽。
 
 ## 平台特色
 
-Discord 社区的高活跃度是 [[OpenClaw 生态系统形成速度]] 的重要驱动力，也是 ClawHub Skills 开发者交流的主要平台。[[Peter Steinberger]] 和核心维护者经常在频道中直接回复用户问题。
+Discord 社区的高活跃度是 [[OpenClaw 生态系统形成速度]] 的重要驱动力，也是 ClawHub Skills 开发者交流的主要平台。[[Peter Steinberger]] 和核心维护者经常在频道中直接回复用户问题。截至 2026 年 Q2，成员数已从 118K 增长至 **176,000+**，增长 49%。
 
 与其他开源社区不同，OpenClaw 的 Discord 更像是一个实时协作空间——命名投票、紧急迁移、安全漏洞讨论都在这里即时发生。社区成员也积极参与 [[OpenClaw Foundation 治理]] 的讨论。与 Reddit 和 Hacker News 相比，Discord 的反馈更即时、更互动。
 

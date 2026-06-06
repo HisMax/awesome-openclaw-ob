@@ -26,12 +26,13 @@ timeline
 
 ## 关键数据
 
-- **331K+** GitHub Stars（[[OpenClaw GitHub 数据更新 2026Q1|2026Q1 最新数据]]，从 230K 持续增长）
-- **118,021+** Discord 成员
-- 全球会议巡回（ClawCon）
-- 150 万+ Skills 总下载量
-- [[OpenClaw npm 下载数据|npm 周下载量]] 突破 127 万
-- **185 家** 活跃赞助商（2026.3）
+- **375K+** GitHub Stars（[[OpenClaw GitHub 数据更新 2026Q2|2026Q2 最新数据]]，从 334K 持续增长）
+- **176,000+** Discord 成员（Q2，从 118K 增长 49%）
+- 全球会议巡回（ClawCon）——Q2 已扩展至密歇根、新加坡、多伦多三城（[[ClawCon 2026 Q2]]）
+- **3,900 万+** Skills 总下载量
+- [[OpenClaw npm 下载数据|npm 周下载量]] ~77 万
+- **320 万** 月活用户（MAU）
+- **3,800 万** 网站月访问量
 
 ## 已形成的生态类别
 

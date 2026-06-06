@@ -25,7 +25,7 @@ OpenClaw 的官方与社区核心项目构成了完整的生态体系。
 
 | 项目 | 描述 | Stars |
 |------|------|-------|
-| **awesome-openclaw-skills** | 精选 2,868 个技能集合 | 22K |
+| **awesome-openclaw-skills** | 精选 5,400+ 个技能集合 | 22K |
 | **awesome-openclaw-usecases** | 真实使用案例集 | — |
 | **openclaw-android** | Android 一键运行 | — |
 | **openclaw-studio** | Web 管理面板 | — |

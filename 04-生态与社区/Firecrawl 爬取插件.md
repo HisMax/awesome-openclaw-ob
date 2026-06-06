@@ -33,6 +33,19 @@ Firecrawl 在 [[Agent Execution Loop]] 中扮演"数据采集者"角色。典型
 
 爬取工具天然具有网络访问能力，这与 [[SSRF 固定与代理安全]] 中的防护策略相关——v2026.3.22 加强了远程 `file://` URL 和 UNC 路径的阻断，确保爬取工具不会被利用为 SSRF 攻击向量。
 
+## 2026 年 Q2 更新
+
+Firecrawl 发布了 **v2.5 版本**，核心升级包括：
+
+- **Semantic Index**：全新语义索引 + 定制浏览器栈，提升数据提取质量
+- **Lockdown Mode**：仅从 Firecrawl 索引返回结果，零外发请求
+- **Question 格式**：支持自然语言提示直接传入 `/scrape`
+- **Highlights 格式**：返回匹配查询的精确句子和代码块
+- 新增 Ruby、PHP（Laravel）、.NET、Rust 官方 SDK
+- 安全加固：修复多个依赖 CVE，Playwright 服务针对 SSRF 进行强化
+
+Python SDK 最新版本 **4.28.2**（2026 年 5 月 28 日发布）。
+
 ## 双链导航
 
 - [[Exa 网页搜索插件]] — 同期引入的搜索插件

@@ -73,7 +73,7 @@ graph TD
 
 YouTube 内容生态是 OpenClaw 传播链条中的关键放大器：
 
-1. **GitHub Stars**（[[OpenClaw GitHub 数据分析|237K Stars]]）和 **npm 下载量**（[[OpenClaw npm 下载数据|周下载 127 万]]）吸引技术人群
+1. **GitHub Stars**（[[OpenClaw GitHub 数据分析|375K+ Stars]]）和 **npm 下载量**（[[OpenClaw npm 下载数据|周下载 ~77 万]]）吸引技术人群
 2. YouTube 教程将技术产品**翻译为普通人可理解的形式**，这也是 Vibe Coding 理念的一种体现
 3. 观众中的非技术用户被吸引后，推动了编程民主化的叙事
 
