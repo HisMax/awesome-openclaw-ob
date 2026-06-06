@@ -10,6 +10,21 @@
 ---
 > 佬友发帖专属：感谢LinuxDO社区～ https://linux.do/
 
+### 知识库配图预览
+
+<p align="center">
+  <img src="assets/openclaw-ecosystem-2026.jpg" width="100%" alt="OpenClaw 生态全景 2026" />
+</p>
+
+<p align="center">
+  <img src="assets/security-landscape-q2-2026.jpg" width="49%" alt="安全态势总览" />
+  <img src="assets/competitive-landscape-2026.jpg" width="49%" alt="竞品格局" />
+</p>
+
+<p align="center"><i>全库 100 张 SCI 报告风格配图，在 Obsidian 中打开即可查看</i></p>
+
+---
+
 ## 中文
 
 ### 这是什么
@@ -18,7 +33,7 @@
 
 当热潮开始进入冷静期，反而是一次"补票上车"的最好时机。与其在焦虑中盲目跟风，不如在看清全貌后再精准入局。**没有调研，就没有发言权。**
 
-为了帮大家建立这个"全貌"，默子花了一周时间，深度调研并梳理了所有的 OpenClaw 核心资料，制作成了这份庞大的 **Obsidian 原子化知识库**——包含 **351 篇笔记**、**3250+ 条双向链接**，覆盖 9 大主题。
+为了帮大家建立这个"全貌"，默子花了一周时间，深度调研并梳理了所有的 OpenClaw 核心资料，制作成了这份庞大的 **Obsidian 原子化知识库**——包含 **351 篇笔记**、**3250+ 条双向链接**、**100 张配图**，覆盖 9 大主题。
 
 > **OpenClaw** 是一个免费、开源的自主 AI Agent 框架，运行在用户本地设备上，通过 WhatsApp、Telegram、Discord 等即时通讯应用连接大语言模型来自主执行任务。
 
