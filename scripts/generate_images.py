@@ -5,7 +5,7 @@ import json, base64, os, sys, time, re, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-ROOT = Path("/Users/mozi/projects/09-OpenClaw知识库")
+ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 TEMPLATE = ASSETS / "template-base.png"
 API_URL = "https://api.bltcy.ai/v1/images/generations"
