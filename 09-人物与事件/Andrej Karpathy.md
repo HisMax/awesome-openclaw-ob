@@ -12,7 +12,7 @@ aliases:
 
 # Andrej Karpathy
 
-> **一句话总结**：前 Tesla AI 总监、OpenAI 创始成员，提出"Claws"概念和"Vibe Coding"术语，对 Agent 元年持悲观 5-10X 时间线，认为需要"Agent 十年"而非"Agent 元年"。
+> **一句话总结**：前 Tesla AI 总监、OpenAI 创始成员，提出"Claws"概念和"Vibe Coding"术语，2026.5 加入 [[Dario Amodei|Anthropic]] 预训练团队，从 Agent 悲观论者转变为 Agentic Engineering 的定义者和实践者。
 
 ## 核心要点
 
@@ -53,14 +53,40 @@ LLM → LLM Agent（工具调用+推理循环） → Claw（编排+调度+持久
 
 ### Vibe Coding 一周年回顾（2026.2）
 
-提出更专业的术语 **"agentic engineering"**——"agentic"因为新的默认方式是编排 Agent 而不是直接写代码。
+提出更专业的术语 **"agentic engineering"**——"agentic"因为新的默认方式是编排 Agent 而不是直接写代码。定义了工作流演进三阶段：
+
+```
+Vibe Coding（人提示 → AI 写代码 → 人审查）
+  → Agentic Engineering（人实时编排 Agent）
+  → Fully Independent Research（人设方向 → Agent 自主运行）
+```
+
+他透露 2025 年 12 月发生了个人转折点：写代码与委托 Agent 的比例从 80:20 翻转为 20:80。
+
+### AutoResearch 项目（2026.3）
+
+开源发布了 **AutoResearch**——让 AI 编码 Agent 连续运行两天，执行 **700 个实验**来改进小型语言模型的训练，最终发现了 **20 项优化**，显著缩短了训练时间。这是他从"Agent 悲观论者"转向"Agent 实践者"的标志性项目。
+
+### 加入 Anthropic（2026.5.19）
+
+宣布加入 [[Dario Amodei|Anthropic]] 预训练团队（Nick Joseph 领导），专注于用 Claude 加速预训练研究。这是 AI 人才战争中的重磅事件——OpenAI 联合创始人选择了竞争对手。
+
+> "I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D."
+
+他表示仍然对教育充满热情，计划未来恢复 Eureka Labs 的教育项目。
 
 ## 关键洞察
 
-Karpathy 的立场在 AI 社区中独特且重要：他既非盲目乐观（如 [[Sam Altman]]），也非全面否定（如 Gary Marcus）。APEX-Agents 基准数据支持他的判断——顶级模型在真实长程任务中首次完成率 **< 25%**。[[Dario Amodei]] 的"半人马阶段"理论实际上也暗示了 Karpathy 的观点：当前 Agent 仍需人类监督，独立工作的窗口期可能"非常短暂"。
+Karpathy 在 2026 年经历了显著的立场演进。从 2025 年的"Agent 十年"悲观论，到 2026 年初定义 Agentic Engineering、发布 AutoResearch、最终加入 Anthropic 预训练团队——他从旁观者变成了参与者。他仍然不是盲目乐观者（如 [[Sam Altman]]），但他的行动已经超越了口头上的谨慎。加入 Anthropic 而非回到 OpenAI，暗示他更认同 Anthropic 的安全优先路线。[[Dario Amodei]] 的"半人马阶段"理论与 Karpathy 对人类监督必要性的强调高度一致。
 
-> "My AI timelines are about 5-10X pessimistic compared to what you'll find in your neighborhood SF AI house party."
+> "The skill being built right now is judgment: what to delegate, how to specify it, and how to review it fast."
+
+## 相关笔记
+
+- [[Cyera Research 与 Claw Chain 披露]] — 沙箱逃逸漏洞进一步印证了他对运行 OpenClaw 的安全顾虑
+- [[GTIG 首次确认 AI 生成零日事件]] — AI 武器化现实与他对 Agent 安全风险的判断一致
 
 ## 外部链接
 
-- [Andrej Karpathy Twitter](https://x.com/kaborthy)
+- [Andrej Karpathy Twitter](https://x.com/karpathy)
+- [Andrej Karpathy Blog](https://karpathy.bearblog.dev/)

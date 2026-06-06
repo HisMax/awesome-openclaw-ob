@@ -68,6 +68,11 @@ Tan 的乐观数据有另一面：**Veracode 发现 45% AI 生成代码样本未
 
 Garry Tan 的数据揭示了一个结构性变化：AI 编码工具不再是"辅助"，而是正在成为创业公司的**主要生产力来源**。当 YC 这样的顶级孵化器中 1/4 的公司代码几乎全部由 AI 生成时，整个软件开发行业的人力结构正在被重新定义。但 [[Andrej Karpathy]] 的警告同样适用：Vibe Coding "falls apart when faced with the types of things that are actually difficult in software development"。Tan 的 10 人工作量论断是真实的效率提升，还是低估了 AI 代码的长期维护成本和安全债务，仍有待时间检验。
 
+## 相关笔记
+
+- [[Cyera Research 与 Claw Chain 披露]] — AI 代码安全审计的必要性进一步验证了 Veracode 数据
+- [[GTIG 首次确认 AI 生成零日事件]] — AI 生成代码的安全风险从开发侧扩展到攻击侧
+
 ## 外部链接
 
 - [Y Combinator 官网](https://ycombinator.com)

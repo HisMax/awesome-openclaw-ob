@@ -30,14 +30,20 @@ Fortune 2026.2.19 的深度报道揭示，Zuckerberg 亲自联系 [[Peter Steinb
 
 如果 Meta 获得了 Steinberger，OpenClaw 可能直接整合进 WhatsApp 的 **20 亿用户**生态，这将是 AI Agent 历史上最大规模的分发。
 
-### Meta 的 AI Agent 战略
+### Meta 的 AI Agent 战略（2026.2 → 6 月更新）
 
-| 维度 | 状态 |
-|------|------|
-| 公开 Agent 产品 | 未发布独立 Agent 产品 |
-| 内部 AI 投入 | Superintelligence Labs（前 FAIR） |
-| OpenClaw 内部使用 | **已禁止**（2026.2 中旬） |
-| 开源 LLM | LLaMA 系列 |
+| 维度 | 2026.2 状态 | 2026 年中最新 |
+|------|------|------|
+| 公开 Agent 产品 | 未发布独立 Agent 产品 | Meta AI 应用推出订阅制（$7.99/$19.99/月） |
+| 内部 AI 投入 | Superintelligence Labs（前 FAIR） | Superintelligence Labs 发布首个模型 |
+| AI 基础设施 | — | **Meta Compute** 计划：数十 GW 级数据中心 |
+| AI 资本开支 | — | **$1,250-1,450 亿**（2026 全年，较 2025 的 $722 亿近翻倍） |
+| 开源 LLM | LLaMA 系列 | **Llama 4 Scout/Maverick**（MoE 架构，1000 万 token 上下文，200+ 语言） |
+| 新模型 | — | **Muse Spark**（Q2 发布） |
+| OpenClaw 内部使用 | **已禁止**（2026.2 中旬） | — |
+| 云服务 | — | Zuckerberg 称云计算业务"definitely on the table" |
+
+Zuckerberg 在 2026 Q1 财报中宣称是"里程碑季度"，表示 Meta"正在按计划向数十亿用户交付个人超级智能"。
 
 ### 矛盾之处：禁而后争
 
@@ -53,15 +59,15 @@ Meta 在 2 月中旬因安全漏洞禁止内部使用 [[OpenClaw 是什么|OpenC
 
 > "Rookie mistake tbh. Turns out alignment researchers aren't immune to misalignment."
 
-### 大厂 Agent 竞赛格局（2026.2）
+### 大厂 Agent 竞赛格局（2026.2 → 6 月更新）
 
-| 公司 | 动作 | 状态 |
+| 公司 | 2026.2 动作 | 最新进展 |
 |------|------|------|
-| **OpenAI** | 收编 Steinberger + 赞助基金会 | 已完成 |
-| **Meta** | Zuckerberg 亲自出手争夺 | 未成功 |
-| **Anthropic** | Claude Cowork + 商标执法 | [[DHH 对 Anthropic 的批评|引发争议]] |
-| **Google** | Project Mariner + Gemini Code Assist | 迭代中 |
-| **Microsoft** | Copilot Tasks + AutoGen | 研究预览 |
+| **OpenAI** | 收编 Steinberger + 赞助基金会 | GPT-5.5 发布，Codex 全面开放，200 万+周活跃用户 |
+| **Meta** | Zuckerberg 亲自出手争夺，收购 Moltbook | Llama 4 发布，Meta AI 订阅制上线，$1,250 亿+ AI 资本开支 |
+| **Anthropic** | Claude Cowork + 商标执法 | [[Claude Mythos]] 发布，$650 亿 Series H，近万亿估值，[[Andrej Karpathy]] 加入 |
+| **Google** | Project Mariner + Gemini Code Assist | Gemini 3.5 agentic era（I/O 2026），[[GTIG 首次确认 AI 生成零日事件|GTIG AI 零日报告]] |
+| **Microsoft** | Copilot Tasks + AutoGen | 持续迭代 |
 
 ### 为什么 Steinberger 选择了 OpenAI 而非 Meta？
 

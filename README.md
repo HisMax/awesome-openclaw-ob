@@ -4,8 +4,8 @@
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge%20Base-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md)
 [![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Notes](https://img.shields.io/badge/Notes-282-blue)](#知识库结构)
-[![Wikilinks](https://img.shields.io/badge/Wikilinks-2397+-green)](#知识库结构)
+[![Notes](https://img.shields.io/badge/Notes-351-blue)](#知识库结构)
+[![Wikilinks](https://img.shields.io/badge/Wikilinks-3250+-green)](#知识库结构)
 
 ---
 > 佬友发帖专属：感谢LinuxDO社区～ https://linux.do/
@@ -18,7 +18,7 @@
 
 当热潮开始进入冷静期，反而是一次"补票上车"的最好时机。与其在焦虑中盲目跟风，不如在看清全貌后再精准入局。**没有调研，就没有发言权。**
 
-为了帮大家建立这个"全貌"，默子花了一周时间，深度调研并梳理了所有的 OpenClaw 核心资料，制作成了这份庞大的 **Obsidian 原子化知识库**——包含 **282 篇笔记**、**2397+ 条双向链接**，覆盖 9 大主题。
+为了帮大家建立这个"全貌"，默子花了一周时间，深度调研并梳理了所有的 OpenClaw 核心资料，制作成了这份庞大的 **Obsidian 原子化知识库**——包含 **351 篇笔记**、**3250+ 条双向链接**，覆盖 9 大主题。
 
 > **OpenClaw** 是一个免费、开源的自主 AI Agent 框架，运行在用户本地设备上，通过 WhatsApp、Telegram、Discord 等即时通讯应用连接大语言模型来自主执行任务。
 
@@ -41,7 +41,7 @@
 ├── 06-趋势与未来/     (18 篇)  Agent 范式转变、2026 预测
 ├── 07-使用案例/       (17 篇)  真实案例复盘与分析
 ├── 08-基础概念/       (54 篇)  AI Agent、LLM、MCP 等基础知识
-└── 09-人物与事件/     (15 篇)  关键人物与标志性事件
+└── 09-人物与事件/     (18 篇)  关键人物与标志性事件
 ```
 
 ### 如何使用
@@ -69,7 +69,7 @@ git clone https://github.com/HisMax/awesome-openclaw-ob.git
 
 ### What is this
 
-An **Obsidian-based atomic knowledge base** for deep research on **OpenClaw** — an open-source autonomous AI Agent framework. Contains **282 notes** with **2397+ bidirectional links** across 9 topics: architecture, security, competitors, ecosystem, business, trends, use cases, concepts, and key figures.
+An **Obsidian-based atomic knowledge base** for deep research on **OpenClaw** — an open-source autonomous AI Agent framework. Contains **351 notes** with **3250+ bidirectional links** across 9 topics: architecture, security, competitors, ecosystem, business, trends, use cases, concepts, and key figures.
 
 > **OpenClaw** is a free, open-source autonomous AI Agent framework that runs locally on user devices, connecting to LLMs via messaging apps (WhatsApp, Telegram, Discord) to autonomously execute tasks.
 
@@ -97,7 +97,7 @@ git clone https://github.com/HisMax/awesome-openclaw-ob.git
 | `06-趋势与未来` | 18 | Agent paradigm shift, 2026 predictions |
 | `07-使用案例` | 17 | Real-world case studies |
 | `08-基础概念` | 54 | AI Agent, LLM, MCP fundamentals |
-| `09-人物与事件` | 15 | Key figures and landmark events |
+| `09-人物与事件` | 18 | Key figures and landmark events |
 
 ---
 

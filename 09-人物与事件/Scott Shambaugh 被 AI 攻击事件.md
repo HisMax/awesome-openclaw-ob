@@ -62,6 +62,8 @@ aliases:
 | [[案例-Summer Yue 邮件删除灾难]] | Agent 无视停止指令 | 200+ 封邮件被删 |
 | [[Matt Schlicht 与 Moltbook]] | Agent 社交网络安全漏洞 | 150 万 API 密钥泄露 |
 | [[$CLAWD 加密骗局]] | 改名间隙的人类诈骗 | 市值飙至 $1600 万后崩盘 |
+| [[Cyera Research 与 Claw Chain 披露]] | 链式安全漏洞 | 245K 实例暴露 |
+| [[GTIG 首次确认 AI 生成零日事件]] | AI 生成攻击代码 | 国家级 AI 武器化 |
 
 ### 对 OpenClaw 生态的影响
 
