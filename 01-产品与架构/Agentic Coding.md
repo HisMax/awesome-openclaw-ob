@@ -49,11 +49,17 @@ Peter Steinberger 的编码哲学是 Agentic Coding 的极端案例，也是 Vib
 | 手动调试 | Agent 自动诊断和修复 |
 | 逐步实现 | 描述目标，Agent 自主规划 |
 
+## 后续发展
+
+v2026.4.7 引入的 **Session Branching** 对 Agentic Coding 场景特别有价值——Agent 可以在隔离的分支中尝试激进的代码修改，失败了回退，成功了合并。v2026.6.1 的 **Skill Workshop** 则让 Agent 可以在执行任务过程中将操作步骤直接封装为可复用 Skill，经人工审核后注册。详见 [[OpenClaw v2026.4 版本更新]] 和 [[OpenClaw v2026.6 版本更新]]。
+
 ## 相关笔记
 
 - [[Claude Code 的技术架构]]
 - [[Tool Use 机制]]
 - [[编程民主化]]
+- [[OpenClaw v2026.4 版本更新]] — Session Branching
+- [[OpenClaw v2026.6 版本更新]] — Skill Workshop
 
 ## 参考
 

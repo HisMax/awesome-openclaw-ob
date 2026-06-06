@@ -46,6 +46,10 @@ openclaw plugins install clawhub:<package>  # 显式指定 ClawHub 来源
 
 原生安装流程引入了 [[Marketplace 安装范围验证]]——远程清单条目必须通过范围扩展验证，外部 git 源、HTTP 归档和绝对路径被拒绝。这是对 [[ClawHavoc 事件]] 后安全整改的技术延续。
 
+## 后续演进：Operator Install Policy（v2026.6）
+
+v2026.6 引入 [[Operator Install Policy]]，用运营者可配置的本地策略命令替代了旧的 dangerous-code scanner，覆盖所有安装来源（ClawHub Skills、上传 Skills、Git/本地 Skills、Plugin install/update 等）。策略命令采用 fail-closed 设计——不可用时安装失败而非跳过检查。详见 [[OpenClaw v2026.6 版本更新]]。
+
 ## 双链导航
 
 - [[ClawHub 官方技能注册表]] — 技能注册表本身
@@ -54,3 +58,5 @@ openclaw plugins install clawhub:<package>  # 显式指定 ClawHub 来源
 - [[Marketplace 安装范围验证]] — 安装安全验证机制
 - [[ClawHavoc 事件]] — 促成原生安装的安全动因
 - [[v2026.3.22 Breaking Changes 迁移指南]] — 安装优先级变更的迁移说明
+- [[Operator Install Policy]] — v2026.6 引入的运营者可配置安装策略
+- [[OpenClaw v2026.6 版本更新]] — 安装策略正式替代 dangerous-code scanner

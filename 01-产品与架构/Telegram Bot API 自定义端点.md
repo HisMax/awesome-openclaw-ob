@@ -48,9 +48,14 @@ Telegram 的论坛模式（Forum Topics）中，DM 主题现在会自动使用 L
 
 改进了长消息的分块逻辑，现在能正确保留空格和段落分隔符。旧实现在切割长文本时可能破坏段落结构，导致代码块或列表格式错乱。
 
+## 后续增强（v2026.5）
+
+v2026.5.12 对 Telegram 可靠性进行了全面加固：轮询改为独立 worker 运行并配备持久化本地 spool、惰性 cron 通知保留渲染格式、支持的 HTML 标签在可见回复和持久镜像中保留。详见 [[OpenClaw v2026.5 版本更新]]。
+
 ## 双链导航
 
 - [[OpenClaw v2026.3 版本更新]] — v2026.3.22 引入所有 Telegram 增强
+- [[OpenClaw v2026.5 版本更新]] — Telegram 可靠性全面加固
 - [[多频道消息架构]] — Telegram 作为 OpenClaw 支持的核心消息平台之一
 - [[ChannelMessageActionAdapter]] — topic-edit 动作的注册接口
 - [[Plugin 扩展系统]] — Telegram 插件作为 Channel Adapter 的架构基础

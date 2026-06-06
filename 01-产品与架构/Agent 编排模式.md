@@ -78,11 +78,18 @@ OpenClaw采用的是**层级+交接的混合模式**：
 - Deloitte预测：更好的编排可使市场规模再增15%-30%
 - [[MCP 协议]] 正成为Agent间通信的标准协议
 
+## 后续发展
+
+v2026.4.2 引入 **Durable TaskFlow** 编排层，使多步工作流具备状态持久化和跨重启恢复能力，详见 [[OpenClaw v2026.4 版本更新]]。v2026.6.1 的 **Workboard 编排原语** 则在 UI 层面落地了多 Agent 编排——让非开发者也能可视化地编排多 Agent 工作流，详见 [[OpenClaw v2026.6 版本更新]]。
+
 ## 双链导航
 
 - [[多Agent协作架构]] — 多Agent系统的技术细节
 - [[Agent Execution Loop]] — 单个Agent内部的执行循环
 - [[Lane-Based Queuing 并发模型]] — OpenClaw的并发资源管理
+- [[OpenClaw v2026.4 版本更新]] — Durable TaskFlow 编排层
+- [[OpenClaw v2026.6 版本更新]] — Workboard 编排原语
+- [[Dynamic Workflows]] — 动态工作流概念
 
 ## 参考
 

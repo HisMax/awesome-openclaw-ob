@@ -57,10 +57,16 @@ flowchart TB
 
 多 Agent 系统的安全风险比单 Agent 更复杂。Jesse Genet 的物理隔离方案是目前最稳健的做法，但也带来更高的成本。
 
+## 后续发展
+
+v2026.4.2 的 **Durable TaskFlow** 让多 Agent 编排具备了状态持久化和跨重启恢复能力。v2026.6.1 的 **Workboard 编排原语** 在 UI 层面落地了多 Agent 编排——支持多 Agent 计划和运行追踪、任务评论集成，让非开发者也能可视化地编排多 Agent 工作流。详见 [[OpenClaw v2026.4 版本更新]] 和 [[OpenClaw v2026.6 版本更新]]。
+
 ## 相关笔记
 
 - [[Agent 编排模式]]
 - [[安全边界与风险（总览）]]
+- [[OpenClaw v2026.4 版本更新]] — Durable TaskFlow
+- [[OpenClaw v2026.6 版本更新]] — Workboard 编排原语
 
 ## 参考
 

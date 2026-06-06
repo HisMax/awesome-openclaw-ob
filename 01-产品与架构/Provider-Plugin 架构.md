@@ -111,6 +111,12 @@ import { LLMProvider } from 'openclaw/plugin-sdk/providers';
 
 这个 Breaking Change 影响所有第三方 Plugin，包括 Provider、Tool 和 Channel 类型。
 
+## 后续发展（v2026.4-6）
+
+v2026.4 大幅扩展了 Provider 生态：DeepSeek V4 Flash 成为新默认模型、Codex OOTH 路由通过 ChatGPT 订阅免费接入 GPT-5.5、NVIDIA 提供商加入、Arcee 和 Google Gemma 4 集成。v2026.4 的 Provider Manifest 架构使 6 类提供商可在运行时无需重建即热切换，详见 [[OpenClaw v2026.4 版本更新]]。
+
+v2026.5.12 将多个集成（WhatsApp、Slack、Amazon Bedrock、Anthropic Vertex、OpenShell 沙箱）从核心安装移出，改为按需安装，进一步践行了 Provider-Plugin 的解耦理念，详见 [[OpenClaw v2026.5 版本更新]]。
+
 ## 关键洞察
 
 Provider-Plugin 架构的真正价值不只是"解耦"——它改变了 OpenClaw 生态的**创新速度**。之前，新模型发布后需要等核心团队或社区 PR 合并；现在，任何开发者都可以在新模型发布的当天发布一个 Provider Plugin 到 npm。对于 2026 年这个模型"半年一变"的时代，这种速度差异是决定性的。
@@ -120,6 +126,8 @@ Provider-Plugin 架构的真正价值不只是"解耦"——它改变了 OpenCla
 ## 相关笔记
 
 - [[OpenClaw v2026.3 版本更新]] — Provider-Plugin 架构在 v2026.3.12 中引入
+- [[OpenClaw v2026.4 版本更新]] — DeepSeek V4 默认化、NVIDIA/Arcee 提供商加入
+- [[OpenClaw v2026.5 版本更新]] — 核心安装瘦身，多个提供商移出默认安装
 - [[模型无关架构]] — Provider-Plugin 是模型无关理念的工程实现
 - [[Plugin 扩展系统]] — Provider-Plugin 是三类扩展之一
 - [[OpenClaw 是什么]] — OpenClaw 的模型无关设计总览

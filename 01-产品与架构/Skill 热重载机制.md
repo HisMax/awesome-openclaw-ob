@@ -67,9 +67,14 @@ Agent 可以直接修改工作空间中的 `.ts` / `.js` 源文件：
 
 250ms debounce 热重载体现了 OpenClaw 的核心设计哲学：**"ship beats perfect"**。传统软件的插件系统需要精心设计的加载/卸载生命周期；OpenClaw 选择了最简单粗暴的方式——文件变了就重新加载，250ms 足够过滤掉抖动。这种设计在快速迭代中非常高效，但也是 [[安全边界与风险（总览）|Aikido.dev 评价"尝试保护 OpenClaw 是荒谬的"]] 的原因之一——当 Agent 可以 250ms 内修改自己的源代码时，任何静态安全措施都可能被动态绕过。
 
+## 后续演进：Skill Workshop（v2026.6）
+
+v2026.6.1 引入 **Skill Workshop**——Agent 在执行任务过程中总结的操作步骤可以直接封装为 Skill，需要人工审核确认后才能注册到 Skill 库。这将 Skill 创建的门槛从"手写 YAML 定义"变为"让 Agent 帮你写，你审一遍"。Workshop 创建的 Skill 同样受益于 250ms debounce 热重载机制——审核通过后立即生效。详见 [[OpenClaw v2026.6 版本更新]]。
+
 ## 双链导航
 
 - [[OpenClaw 是什么]] — 热重载依附的核心框架
+- [[OpenClaw v2026.6 版本更新]] — Skill Workshop
 - [[Agent Execution Loop]] — 热重载后 Agent 立即使用新 Skill 的执行流程
 - [[Tool Use 机制]] — Skills 通过 Tool Use 被 Agent 调用
 - [[安全边界与风险（总览）]] — 自修改能力带来的安全隐患

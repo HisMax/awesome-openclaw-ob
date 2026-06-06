@@ -57,6 +57,15 @@ Plugin 是**基础设施层**扩展（npm 依赖，node_modules，注册工具/C
 
 [[自我修改软件机制|自我修改]]、Plugin、Skill 构成 OpenClaw 的三层扩展体系：自我修改最灵活最危险 → Plugin 系统级启动加载 → Skill 应用级热重载。ClawHub 上 3,286 个 Skills（清理后）和社区 Plugin 共同构成生态系统。
 
+## 后续发展（v2026.4-6）
+
+- **v2026.5.3**：新增 File Transfer 插件（`file_fetch`/`file_write`/`dir_list`/`dir_fetch`），支持配对节点间的二进制文件操作
+- **v2026.5.22**：Meeting Notes 插件上线，自动捕获会议纪要
+- **v2026.6.1**：Skill Workshop 引入 review-first 模式，Agent 执行中总结的操作可直接封装为 Skill，经人工审核后注册
+- **v2026.6.2**：[[Operator Install Policy]] 正式替代旧的 dangerous-code scanner，用运营者可配置的本地策略命令控制所有插件和 Skill 安装
+
+详见 [[OpenClaw v2026.5 版本更新]] 和 [[OpenClaw v2026.6 版本更新]]。
+
 ## 安全考量与关键洞察
 
 Plugin 通过 npm 安装，继承了 npm 生态的供应链风险。相比 ClawHub 上 36.82% 存在漏洞的 Skills，Plugin 审计渠道更成熟（npm audit、Snyk 等）。但 Plugin 拥有更高的系统权限——恶意 Plugin 可注册后门工具或劫持 LLM Provider 通信。
@@ -80,6 +89,9 @@ Plugin 通过 npm 安装，继承了 npm 生态的供应链风险。相比 ClawH
 - [[ClawHub 原生安装]] -- v2026.3.22 将 ClawHub 安装整合进核心
 - [[Marketplace 安装范围验证]] -- 插件安装的安全验证
 - [[OpenClaw 官方安全模型]] -- 插件的安全审计与供应链风险
+- [[Operator Install Policy]] -- v2026.6 引入的插件安装策略
+- [[OpenClaw v2026.5 版本更新]] — File Transfer 和 Meeting Notes 插件
+- [[OpenClaw v2026.6 版本更新]] — Skill Workshop 和安装策略
 
 ## 参考
 

@@ -153,10 +153,16 @@ Agent-Flow-Loop 的设计哲学可以用一句话概括：
 
 LLM 只是"大脑"，OpenClaw 提供了"身体"——感知（Channel）、记忆（Memory）、动手能力（Tools）、安全感（Sandbox）。这就是为什么 OpenClaw 不是技术突破，而是**工程突破**——它让 AI Agent 从实验室走进了普通人的聊天窗口。
 
+## 后续演进：Durable TaskFlow
+
+v2026.4.2 引入了 **Durable TaskFlow**，让 Agent-Flow-Loop 从"单次对话内的循环"扩展为"跨会话、跨重启的持久化工作流"。TaskFlow 维护独立的 owner session、return context 和 revision tracking，使编排逻辑可以脱离单次对话存活。v2026.4.7 进一步加入 Webhook 触发机制，把 OpenClaw 从"需要人类发起的对话系统"变成"可以被事件驱动的自动化平台"。详见 [[OpenClaw v2026.4 版本更新]]。
+
 ## 相关笔记
 
 - [[Agent Execution Loop]] - 执行循环的具体实现
 - [[Tool Use 机制]] - 工具调用机制
+- [[OpenClaw v2026.4 版本更新]] — Durable TaskFlow 编排层
+- [[Agent 编排模式]] — 多步工作流编排范式
 
 ## 参考
 

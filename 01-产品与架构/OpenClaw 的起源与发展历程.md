@@ -79,10 +79,15 @@ timeline
 
 2026年3月，[[OpenClaw v2026.3 版本更新|v2026.3 系列版本]]完成了历史遗留的技术清理——v2026.3.22-beta.1 移除所有旧版 `CLAWDBOT_*` 和 `MOLTBOT_*` 环境变量，统一为 `OPENCLAW_*`，标志着改名事件的技术影响最终消除。
 
+2026年4-6月，OpenClaw 经历了"能力建设→稳定化→治理"三阶段演进：[[OpenClaw v2026.4 版本更新|v2026.4]] 引入 Durable TaskFlow 和 Memory-Wiki 完成"持久化运行时"转型，[[OpenClaw v2026.5 版本更新|v2026.5]] 密集修复稳定性，[[OpenClaw v2026.6 版本更新|v2026.6]] 引入 Auto Mode 和 [[Operator Install Policy]] 建设企业级治理能力。值得注意的是，Codex OOTH 路由的深度集成时间线与 Steinberger 加入 OpenAI 高度吻合。
+
 ## 相关笔记
 
 - [[OpenClaw 是什么]]
 - [[OpenClaw v2026.3 版本更新]] — v2026.3.22-beta.1 清理了改名遗留的环境变量
+- [[OpenClaw v2026.4 版本更新]] — 持久化运行时转型
+- [[OpenClaw v2026.5 版本更新]] — 稳定化窗口
+- [[OpenClaw v2026.6 版本更新]] — 企业级治理能力
 - [[Peter Steinberger]]
 - [[OpenClaw 与 Anthropic 关系]]
 - [[CI CD 流水线]] — 项目从原型到社区协作过程中的持续集成实践

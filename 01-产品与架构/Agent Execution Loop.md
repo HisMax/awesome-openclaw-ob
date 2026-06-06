@@ -82,11 +82,17 @@ AgentMessage[] -> transformContext() -> convertToLlm() -> LLM Provider
 - **`steer()`**：中断当前执行——立即停止正在进行的 Agent 循环，插入新指令（抢占式控制）
 - **`followUp()`**：排队等待——将新指令加入队列，等当前循环完成后再执行（协作式控制）
 
+## 后续演进
+
+v2026.4.2 引入 **Durable TaskFlow**，将 Agent Execution Loop 从单次对话扩展为跨会话的持久化工作流。v2026.6.2 改进了 Agent 和 CLI 运行时从中断的工具调用中的恢复能力，以及压缩交接（compaction handoff）的恢复机制。详见 [[OpenClaw v2026.4 版本更新]] 和 [[OpenClaw v2026.6 版本更新]]。
+
 ## 相关笔记
 
 - [[Agent-Flow-Loop 原理]]
 - [[Lane-Based Queuing 并发模型]]
 - [[Heartbeat 主动监控机制]]
+- [[OpenClaw v2026.4 版本更新]] — Durable TaskFlow
+- [[OpenClaw v2026.6 版本更新]] — 运行时恢复改进
 
 ## 参考
 

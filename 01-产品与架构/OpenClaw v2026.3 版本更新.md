@@ -369,6 +369,7 @@ v2026.3.22 正式版的发布标志着这一愿景的全面落地。Beta 中的 
 
 - [[OpenClaw 是什么]] — 框架总览
 - [[OpenClaw v2.1 版本更新]] — 上一个重大版本
+- [[OpenClaw v2026.4 版本更新]] — 下一个版本系列
 - [[Dashboard 控制面板]] — v2026.3.12 引入的 Dashboard 模块化
 - [[Provider-Plugin 架构]] — 模型提供商插件化架构
 - [[可插拔沙箱后端]] — OpenShell 沙箱后端
