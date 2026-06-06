@@ -15,6 +15,9 @@ aliases:
 
 # RankClaw ClawHub 审计
 
+
+![[assets/rankclaw-audit.jpg]]
+
 **审计方**：RankClaw | **范围**：ClawHub 全量注册表 | **样本量**：14,706 个 Skills
 
 ## 一句话理解

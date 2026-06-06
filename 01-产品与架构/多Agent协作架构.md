@@ -11,6 +11,9 @@ aliases:
 
 # 多Agent协作架构
 
+
+![[assets/multi-agent.jpg]]
+
 多Agent协作架构是指多个 [[OpenClaw 是什么|OpenClaw]] Agent 通过分工和通信协同完成复杂任务的系统设计模式。这是 Agentic AI 发展到一定阶段的必然产物。
 
 ## 核心模式

@@ -17,6 +17,9 @@ aliases:
 
 # OpenClaw v2026.6 版本更新
 
+
+![[assets/v2026-6-update.jpg]]
+
 ## 一句话理解
 
 > 2026 年 6 月是 OpenClaw 的"治理月"——Auto Mode 用"策略优先→模型审核→人工兜底"的三层架构替代了粗暴的 YOLO 模式，Operator Install Policy 让运营者可以用自定义策略命令控制插件安装，v2026.6.2 则在频道可靠性、运行时恢复和发布验证上全面收紧。

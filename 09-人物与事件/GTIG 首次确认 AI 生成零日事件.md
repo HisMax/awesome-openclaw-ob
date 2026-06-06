@@ -18,6 +18,9 @@ aliases:
 
 # GTIG 首次确认 AI 生成零日事件
 
+
+![[assets/gtig-event.jpg]]
+
 **日期**：2026 年 5 月 11 日 | **报告方**：Google Threat Intelligence Group (GTIG)
 
 ## 一句话理解

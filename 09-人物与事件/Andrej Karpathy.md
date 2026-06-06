@@ -12,6 +12,9 @@ aliases:
 
 # Andrej Karpathy
 
+
+![[assets/karpathy.jpg]]
+
 > **一句话总结**：前 Tesla AI 总监、OpenAI 创始成员，提出"Claws"概念和"Vibe Coding"术语，2026.5 加入 [[Dario Amodei|Anthropic]] 预训练团队，从 Agent 悲观论者转变为 Agentic Engineering 的定义者和实践者。
 
 ## 核心要点

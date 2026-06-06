@@ -10,6 +10,9 @@ aliases:
 
 # GitHub Copilot 分析
 
+
+![[assets/copilot.jpg]]
+
 ## 基本信息
 
 - **类别**：AI 编码助手

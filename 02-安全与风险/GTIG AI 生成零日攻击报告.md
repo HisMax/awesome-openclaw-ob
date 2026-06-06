@@ -17,6 +17,9 @@ aliases:
 
 # GTIG AI 生成零日攻击报告
 
+
+![[assets/gtig-zero-day.jpg]]
+
 **发布时间**：2026 年 5 月 11 日 | **发布方**：Google Threat Intelligence Group (GTIG)
 
 ## 一句话理解

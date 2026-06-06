@@ -10,6 +10,9 @@ aliases:
 
 # 多 Agent 竞争格局
 
+
+![[assets/multi-agent-competition.jpg]]
+
 Sam Altman 明确表态：
 > "The future is going to be extremely multi-agent."
 

@@ -14,6 +14,9 @@ aliases:
 
 # Operator Install Policy
 
+
+![[assets/operator-policy.jpg]]
+
 ## 一句话理解
 
 > Operator Install Policy 是 OpenClaw 的"安检门"——运营者配置一个本地策略命令，在每次插件或 Skill 安装前运行，决定允许还是阻止，替代了之前不可定制的危险代码扫描器。

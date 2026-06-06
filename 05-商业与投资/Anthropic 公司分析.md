@@ -11,6 +11,9 @@ aliases:
 
 # Anthropic 公司分析
 
+
+![[assets/anthropic-analysis.jpg]]
+
 ## 一句话理解
 
 Anthropic 是 AI 安全领域的"学霸创业公司"——由前 OpenAI 研究副总裁 Dario Amodei 创立，专注于构建安全可控的 AI 系统。它的核心产品 Claude 是 GPT 的直接竞争对手，而它与 OpenClaw 的关系则是一出"商标引发的意外戏剧"。

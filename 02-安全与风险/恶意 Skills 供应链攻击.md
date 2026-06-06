@@ -13,6 +13,9 @@ aliases:
 
 # 恶意 Skills 供应链攻击
 
+
+![[assets/supply-chain.jpg]]
+
 Snyk 发布的 **ToxicSkills** 研究揭示了 [[OpenClaw 是什么|OpenClaw]] Skills 生态系统的严重安全问题。
 
 ## 关键数据

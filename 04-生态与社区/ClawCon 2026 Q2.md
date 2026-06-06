@@ -14,6 +14,9 @@ aliases:
 
 # ClawCon 2026 Q2
 
+
+![[assets/clawcon-q2.jpg]]
+
 > **一句话总结**：2026 年 Q2，ClawCon 从北美走向亚洲，在密歇根、新加坡、多伦多三座城市举办社区大会——OpenClaw 不再只是 GitHub 上的代码仓库，而是一场正在全球蔓延的"个人 AI 主权"运动。
 
 ## 三场活动总览

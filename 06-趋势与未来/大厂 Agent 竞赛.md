@@ -10,6 +10,9 @@ aliases:
 
 # 大厂 Agent 竞赛
 
+
+![[assets/big-tech-race.jpg]]
+
 ## 各大厂 Agent 布局对比
 
 ```mermaid

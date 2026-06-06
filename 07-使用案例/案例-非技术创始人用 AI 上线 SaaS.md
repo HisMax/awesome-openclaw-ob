@@ -13,6 +13,9 @@ aliases:
 
 # 案例：非技术创始人用 AI 上线 SaaS
 
+
+![[assets/non-tech-saas.jpg]]
+
 **一句话总结**：不会写代码的人通过 Vibe Coding 工具链从零构建并上线可用的 SaaS 产品，证明"编码能力"不再是软件创业的前提。
 
 ## 核心内容

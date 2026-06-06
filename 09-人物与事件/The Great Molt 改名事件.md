@@ -13,6 +13,9 @@ aliases:
 
 # The Great Molt 改名事件
 
+
+![[assets/great-molt.jpg]]
+
 > **一句话总结**：Clawdbot 因 Anthropic 商标通知被迫改名为 OpenClaw 的 3 小时全平台紧急迁移事件，过程中伴随加密骗局、账号抢注、GitHub 事故和社区通宵抢救。
 
 ## 核心要点

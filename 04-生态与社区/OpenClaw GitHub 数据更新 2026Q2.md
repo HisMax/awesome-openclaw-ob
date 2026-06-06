@@ -12,6 +12,9 @@ aliases:
 
 # OpenClaw GitHub 数据更新 2026Q2
 
+
+![[assets/github-q2.jpg]]
+
 > **一句话总结**：截至 2026 年 Q2，OpenClaw GitHub Stars 突破 375,000，Forks 达 78,200+，npm 周下载量 77 万+，月活用户 320 万，网站月访问量从 725 万飙升至 3,800 万——这些数据共同指向一个结论：OpenClaw 已从"现象级开源项目"进入"基础设施级平台"。
 
 ## 最新数据（2026 年 Q2）

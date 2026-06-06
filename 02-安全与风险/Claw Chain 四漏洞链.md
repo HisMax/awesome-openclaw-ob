@@ -19,6 +19,9 @@ aliases:
 
 # Claw Chain 四漏洞链
 
+
+![[assets/claw-chain.jpg]]
+
 **CVE-2026-44112 / 44113 / 44115 / 44118** | CVSS 最高 9.6 | 2026-05-18 披露
 
 ## 一句话理解

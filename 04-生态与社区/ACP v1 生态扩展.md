@@ -15,6 +15,9 @@ aliases:
 
 # ACP v1 生态扩展
 
+
+![[assets/acp-ecosystem.jpg]]
+
 > **一句话总结**：Agent Client Protocol（ACP）是 AI 编码 Agent 世界的"LSP"——就像 Language Server Protocol 在 2016 年终结了编辑器碎片化一样，ACP 正在终结 AI 编码 Agent 的编辑器锁定，已有 28+ Agent 和 Google/AWS/JetBrains/Neovim/Emacs 等主流客户端接入。
 
 ## ACP 是什么

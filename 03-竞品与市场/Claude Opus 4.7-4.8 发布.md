@@ -14,6 +14,9 @@ aliases:
 
 # Claude Opus 4.7-4.8 发布
 
+
+![[assets/opus-4-8.jpg]]
+
 ## 一句话理解
 
 > 2026 年 Q2，Anthropic 连续发布两代 Opus 模型——4.7 在编码/推理/Agent 能力上全面超越 GPT-5.4，4.8 则以 SWE-Bench Pro 69.2% 和 Online-Mind2Web 84% 两项纪录确立了"最强编码+浏览器 Agent"地位，同时 Fast mode 将高端推理成本降至 1/3。

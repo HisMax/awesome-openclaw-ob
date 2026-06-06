@@ -10,6 +10,9 @@ aliases:
 
 # OpenClaw 投资风险因素
 
+
+![[assets/investment-risk.jpg]]
+
 ## 主要风险
 
 | 风险 | 说明 |

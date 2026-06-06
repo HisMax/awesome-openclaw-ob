@@ -9,6 +9,9 @@ tags: [Anthropic, Claude, LLM, Constitutional-AI]
 
 # Claude 模型系列
 
+
+![[assets/claude-models.jpg]]
+
 > **一句话本质：** Claude 是 [[Anthropic 公司分析|Anthropic]] 打造的"安全优先"大语言模型家族，用三个尺寸（Haiku/Sonnet/Opus）覆盖从轻量到旗舰的全部场景，核心差异化在于 [[Constitutional AI]] 训练方法带来的可控性。
 
 ## 家族架构：三级火箭

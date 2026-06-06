@@ -11,6 +11,9 @@ aliases:
 
 # ClawHub 官方技能注册表
 
+
+![[assets/clawhub.jpg]]
+
 ClawHub 是 [[OpenClaw 是什么|OpenClaw]] 的官方 [[Skills 市场]] 平台，类似于 npm 或 VS Code Extensions。
 
 ## 核心数据

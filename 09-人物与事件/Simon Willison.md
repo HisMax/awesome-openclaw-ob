@@ -13,6 +13,9 @@ aliases:
 
 # Simon Willison
 
+
+![[assets/simon-willison.jpg]]
+
 > **一句话总结**：Django 联合创始人、datasette 和 llm CLI 工具作者，最早将"提示注入"命名为一类安全漏洞的人，也是 AI 时代最高产的技术博主之一——他的博客是跟踪 LLM 生态变化的一手信号源。
 
 ## 核心要点

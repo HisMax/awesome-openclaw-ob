@@ -12,6 +12,9 @@ aliases:
 
 # Prompt Injection 风险
 
+
+![[assets/prompt-injection.jpg]]
+
 这是 [[OpenClaw 是什么|OpenClaw]] 面临的**最根本性安全威胁**，且**无法根本修复**。
 
 ## 核心问题

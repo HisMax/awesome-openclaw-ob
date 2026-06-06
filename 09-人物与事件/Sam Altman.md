@@ -12,6 +12,9 @@ aliases:
 
 # Sam Altman
 
+
+![[assets/sam-altman.jpg]]
+
 > **一句话总结**：OpenAI CEO，宣称 2025 为 Agent 元年，收编 OpenClaw 创始人 Steinberger，推动 AI Agent 从实验走向商业化核心战略。
 
 ## 核心要点

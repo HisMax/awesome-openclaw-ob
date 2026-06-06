@@ -10,6 +10,9 @@ aliases:
 
 # 2026 Agent 元年
 
+
+![[assets/agent-year.jpg]]
+
 ## 核心论点
 
 > 2025 年被称为"Agent 元年"，但回头看更像是 **Web Coding 元年**。

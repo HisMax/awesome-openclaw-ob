@@ -14,6 +14,9 @@ aliases:
 
 # GPT-5.5 发布
 
+
+![[assets/gpt-5-5.jpg]]
+
 ## 一句话理解
 
 > 2026-04-23 发布的 GPT-5.5 是 OpenAI 迄今最强模型——1M 上下文、$5/$30 定价、Terminal-Bench 82.7%，但在核心编码 benchmark SWE-Bench Pro 上以 58.6% 落后 [[Claude Opus 4.7-4.8 发布|Opus 4.8]] 的 69.2% 超过 10 分。5.5 Instant 于 5 月 5 日免费开放，引发模型民主化新一轮竞赛。

@@ -13,6 +13,9 @@ aliases:
 
 # Claude Code 营收分析
 
+
+![[assets/claude-code-revenue.jpg]]
+
 ## 一句话总结
 
 Claude Code 在 2026 年 5 月达到 **$25 亿+** 年化营收（较年初翻倍），企业订阅占比超过 50%，同时占据 GitHub 公共提交的 4%，成为 AI 编码工具赛道的营收王者。而 Anthropic 整体 ARR 已达 **$470 亿**（[[Anthropic Series H 融资|Series H 时点]]），Claude Code 是其最大的增长引擎之一。

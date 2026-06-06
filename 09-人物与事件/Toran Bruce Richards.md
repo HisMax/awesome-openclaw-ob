@@ -12,6 +12,9 @@ aliases:
 
 # Toran Bruce Richards
 
+
+![[assets/toran.jpg]]
+
 > **一句话总结**：AutoGPT 创始人，2023 年 3 月首个广泛展示 GPT-4 自主能力的开源项目创建者，开启了 AI Agent 开源生态的先河，但项目最终因架构局限被 OpenClaw 超越。
 
 ## 核心要点

@@ -15,6 +15,9 @@ aliases:
 
 # Anthropic Mythos 模型
 
+
+![[assets/mythos.jpg]]
+
 ## 一句话理解
 
 > Anthropic 在 Opus 之上构建的超级模型——数学奥赛 97.6%（Opus 4.6 仅 42.3%）、AISI 黑客任务 73% 成功率，但因安全风险拒绝公开发布，仅通过 Project Glasswing 向 150+ 机构限量提供，成为 AI 安全领域最具争议的模型之一。

@@ -11,6 +11,9 @@ aliases:
 
 # OpenClaw 官方安全模型
 
+
+![[assets/security-model.jpg]]
+
 OpenClaw 官方承认：**"没有'完美安全'的设置"**。
 
 ## 安全架构

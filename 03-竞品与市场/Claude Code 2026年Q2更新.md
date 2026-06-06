@@ -14,6 +14,9 @@ aliases:
 
 # Claude Code 2026年Q2更新
 
+
+![[assets/claude-code-q2.jpg]]
+
 ## 一句话理解
 
 > 2026 年 Q2，Claude Code 从"单 Agent 编码助手"进化为"千级子 Agent 编排引擎"——Dynamic Workflows 支持一次最多 1,000 个子 Agent（16 并发），ultracode 模式一键触发自动编排，Auto Mode 扩展至 Bedrock/Vertex/Foundry 三大云平台，插件生态全面简化。

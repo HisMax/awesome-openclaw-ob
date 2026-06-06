@@ -12,6 +12,9 @@ aliases:
 
 # 案例：Nat Eliason 的 AI 创业实验
 
+
+![[assets/nat-eliason.jpg]]
+
 **人物**：Nat Eliason，知名创作者经济博主
 **案例**：给 OpenClaw 机器人 "Felix" $1,000 启动资金，让它自主创业
 

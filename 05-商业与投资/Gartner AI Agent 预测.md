@@ -13,6 +13,9 @@ aliases:
 
 # Gartner AI Agent 预测
 
+
+![[assets/gartner-predictions.jpg]]
+
 ## 一句话总结
 
 Gartner 预测到 2026 年底 40% 的企业应用将集成 AI Agent（2025 年不到 5%，增长 8 倍），到 2035 年 Agentic AI 可能驱动约 30% 企业应用软件收入，超过 $4500 亿。

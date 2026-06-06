@@ -12,6 +12,9 @@ aliases:
 
 # SWE-Bench 基准测试
 
+
+![[assets/swe-bench.jpg]]
+
 ## 一句话理解
 
 > SWE-Bench 是衡量 AI 在真实开源代码库中自主修复 Bug 能力的标准基准——Claude Opus 4.6 以 80.8% 的成绩登顶，意味着每 5 个真实 Bug 它能独立修掉 4 个，这是评判 AI 编码能力最有说服力的指标之一。

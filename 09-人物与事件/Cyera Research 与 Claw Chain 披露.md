@@ -16,6 +16,9 @@ aliases:
 
 # Cyera Research 与 Claw Chain 披露
 
+
+![[assets/cyera-disclosure.jpg]]
+
 ## 一句话理解
 
 > 以色列数据安全公司 Cyera 的研究团队发现了 OpenClaw 历史上最严重的漏洞组合"Claw Chain"，通过负责任披露流程给予 OpenClaw 团队充足的修复时间，最终使约 24.5 万个暴露实例免于被链式利用攻击——这是 AI Agent 安全领域迄今最具影响力的漏洞披露事件。

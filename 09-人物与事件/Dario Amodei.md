@@ -12,6 +12,9 @@ aliases:
 
 # Dario Amodei
 
+
+![[assets/dario-amodei.jpg]]
+
 > **一句话总结**：Anthropic CEO，提出"半人马阶段"理论（人+AI 组合当前最强），Claude 背后的决策者，在 AI 安全与商业化之间走钢丝。
 
 ## 核心要点

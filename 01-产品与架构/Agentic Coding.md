@@ -11,6 +11,9 @@ aliases:
 
 # Agentic Coding
 
+
+![[assets/agentic-coding.jpg]]
+
 Agentic Coding 是一种以 AI Agent 为核心驱动力的软件开发范式。开发者不再逐行编写代码，而是通过自然语言指令引导 AI Agent 自主完成代码的编写、测试和迭代。这种范式由大语言模型的推理能力驱动，正在催生 [[编程民主化]] 的新浪潮。
 
 ## 核心特征

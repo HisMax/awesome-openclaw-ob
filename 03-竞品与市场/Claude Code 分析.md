@@ -10,6 +10,9 @@ aliases:
 
 # Claude Code 分析
 
+
+![[assets/claude-code.jpg]]
+
 ## 基本信息
 
 - **类别**：专业软件开发代理（终端编码代理），属于 [[Agentic Coding]] 范式

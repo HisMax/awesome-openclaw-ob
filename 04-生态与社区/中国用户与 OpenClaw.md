@@ -17,6 +17,9 @@ aliases:
 
 # 中国用户与 OpenClaw
 
+
+![[assets/china-users.jpg]]
+
 中国科技巨头争相将 [[OpenClaw 是什么|OpenClaw]] 集成到自身生态，形成独特的市场热潮。
 
 ## 平台级集成

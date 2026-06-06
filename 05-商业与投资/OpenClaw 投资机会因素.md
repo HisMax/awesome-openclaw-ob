@@ -9,6 +9,9 @@ aliases:
 
 # OpenClaw 投资机会因素
 
+
+![[assets/investment-opportunity.jpg]]
+
 ## 核心机会
 
 | 机会 | 说明 |

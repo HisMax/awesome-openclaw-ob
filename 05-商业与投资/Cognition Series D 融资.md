@@ -15,6 +15,9 @@ aliases:
 
 # Cognition Series D 融资
 
+
+![[assets/cognition-d.jpg]]
+
 > **一句话总结**：2026 年 5 月 27 日，Cognition（Devin 的创造者）完成 $10 亿 Series D 融资，估值从 8 个月前的 $102 亿跃升至 $260 亿。最惊人的不是融资数字，而是 Devin 现在编写了 Cognition 自身 89% 的代码——从 2025 年 12 月的 13% 到 89%，AI 编码 Agent 正在用自己来证明自己。
 
 ## 核心数据

@@ -13,6 +13,9 @@ aliases:
 
 # MCP 协议
 
+
+![[assets/mcp-protocol.jpg]]
+
 ## 一句话理解
 
 MCP（Model Context Protocol）是 AI 世界的 "USB 标准"。就像 USB 让你不管什么品牌的设备都能插到电脑上用一样，MCP 定义了 AI 模型和外部工具之间的标准通信协议——不管你用的是 Claude、GPT 还是 DeepSeek，也不管你要连接的是 GitHub、数据库还是智能家居，MCP 都提供统一的接口。

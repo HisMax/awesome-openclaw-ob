@@ -21,6 +21,9 @@ aliases:
 
 # OpenClaw v2026.4 版本更新
 
+
+![[assets/v2026-4-update.jpg]]
+
 ## 一句话理解
 
 > 2026 年 4 月是 OpenClaw 从"可组装平台"迈向"持久化运行时"的转折月——Durable TaskFlow 让工作流具备状态持久化能力，Memory-Wiki 赋予 Agent 结构化长期记忆，Claw Chain 四漏洞修复暴露了沙箱安全的深层挑战，Google Meet 集成与 DeepSeek V4 默认化则标志着语音场景和模型生态的双重扩张。

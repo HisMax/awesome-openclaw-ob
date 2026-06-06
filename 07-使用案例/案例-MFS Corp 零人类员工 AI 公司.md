@@ -13,6 +13,9 @@ aliases:
 
 # 案例：MFS Corp 零人类员工 AI 公司
 
+
+![[assets/mfs-corp.jpg]]
+
 **项目**：MFS Corp，6 个自主 Agent 运行在 Proxmox 上，零人类员工，真实产生收入
 
 ## Agent 架构

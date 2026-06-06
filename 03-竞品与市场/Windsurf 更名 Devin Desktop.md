@@ -16,6 +16,9 @@ aliases:
 
 # Windsurf 更名 Devin Desktop
 
+
+![[assets/windsurf-devin.jpg]]
+
 ## 一句话理解
 
 > 2026-06-02，Cognition 通过 OTA 更新将 Windsurf 更名为 Devin Desktop，用 Rust 重写的 Devin Local 取代 Cascade（30% token 效率提升），默认界面从代码编辑器切换为 Agent Command Center——这不仅是品牌整合，更是"从 IDE 到 Agent 指挥中心"的产品范式转变。

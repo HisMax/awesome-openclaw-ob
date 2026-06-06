@@ -16,6 +16,9 @@ aliases:
 
 # Dynamic Workflows
 
+
+![[assets/dynamic-workflows.jpg]]
+
 ## 一句话理解
 
 > Dynamic Workflows 是 Claude Code 的大规模 Agent 编排范式——Claude 动态生成 JavaScript 编排脚本，运行时调度最多 1,000 个子 Agent（16 并发），用对抗性验证确保结果收敛，将编排逻辑从上下文窗口搬到脚本变量中，突破了传统逐轮 Agent 模式的扩展瓶颈。

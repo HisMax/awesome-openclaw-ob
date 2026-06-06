@@ -10,6 +10,9 @@ aliases:
 
 # AI Agent 市场规模
 
+
+![[assets/market-size.jpg]]
+
 AI Agent 赛道正处于爆发式增长阶段，多家研究机构给出高增长预测。[[2026 Agent 元年]] 的到来为市场注入了强劲动力。
 
 ## 市场规模预测

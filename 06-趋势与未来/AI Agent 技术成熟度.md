@@ -10,6 +10,9 @@ aliases:
 
 # AI Agent 技术成熟度
 
+
+![[assets/tech-maturity.jpg]]
+
 ## 企业采用数据（2025-2026）
 
 | 指标 | 数据 | 来源 |

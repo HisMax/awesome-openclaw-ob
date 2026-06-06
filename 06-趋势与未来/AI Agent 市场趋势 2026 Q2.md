@@ -15,6 +15,9 @@ aliases:
 
 # AI Agent 市场趋势 2026 Q2
 
+
+![[assets/market-trends-q2.jpg]]
+
 > **一句话总结**：2026 年 Q2，AI Agent 市场呈现出"极度繁荣与极度风险并存"的矛盾景象——Gartner 多 Agent 系统咨询暴增 1,445%，Bun 运行时 11 天用 Agent 重写 75 万行代码；但同时 40% 的 Agentic AI 项目预计失败，Anthropic Mythos 引发跨大西洋安全博弈，NIST 紧急推出三支柱标准化战略。
 
 ## 市场规模与增长

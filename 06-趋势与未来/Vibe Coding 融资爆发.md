@@ -11,6 +11,9 @@ aliases:
 
 # Vibe Coding 融资爆发
 
+
+![[assets/vibe-coding-funding.jpg]]
+
 2026 年 3 月，[[Vibe Coding]] 赛道迎来了史无前例的融资爆发。Lovable 融资 3.3 亿美元、Cursor 融资 23 亿美元、Replit 估值飙升至 90 亿美元——资本市场用真金白银投票：AI 编码不是泡沫，而是一个正在爆发的百亿美元级市场。
 
 ## 核心融资数据

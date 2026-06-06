@@ -14,6 +14,9 @@ aliases:
 
 # Anthropic Series H 融资
 
+
+![[assets/series-h.jpg]]
+
 > **一句话总结**：2026 年 5 月 28 日，Anthropic 完成 $650 亿 Series H 融资，估值 $9,650 亿——距万亿美元仅一步之遥。从 Series G 的 $3,800 亿到 H 轮的 $9,650 亿，三个月内估值翻了 2.5 倍，年化营收从 $140 亿增长至 $470 亿。这可能是人类历史上最大规模的私募融资，也很可能是 Anthropic IPO 前的最后一轮。
 
 ## 核心数据

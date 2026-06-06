@@ -10,6 +10,9 @@ aliases:
 
 # OpenClaw 核心生态项目
 
+
+![[assets/ecosystem-projects.jpg]]
+
 OpenClaw 的官方与社区核心项目构成了完整的生态体系。
 
 ## 官方项目

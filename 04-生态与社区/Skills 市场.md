@@ -14,6 +14,9 @@ aliases:
 
 # Skills 市场
 
+
+![[assets/skills-market.jpg]]
+
 ## 一句话理解
 
 Skills 市场就像手机的 App Store——你的 Agent 出厂时只会基本操作，但通过安装 Skills，它可以学会控制浏览器、管理 GitHub、操作智能家居、甚至自我进化。[[ClawHub 官方技能注册表|ClawHub]] 就是 OpenClaw 的 "App Store"。

@@ -14,6 +14,9 @@ aliases:
 
 # Plugin 扩展系统
 
+
+![[assets/plugin-system.jpg]]
+
 ## 一句话总结
 
 OpenClaw 的 Plugin 系统通过 `package.json` 中的 `openclaw.extensions` 字段声明插件入口，`src/plugins/loader.ts` 在启动时自动扫描并加载——插件可以注册新工具、新 Channel Adapter 或新 LLM Provider，无需修改核心代码。

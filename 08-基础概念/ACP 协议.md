@@ -14,6 +14,9 @@ aliases:
 
 # ACP 协议
 
+
+![[assets/acp-protocol.jpg]]
+
 ## 一句话理解
 
 > ACP（Agent Client Protocol）之于 AI 编程 Agent，就像 LSP（Language Server Protocol）之于语言服务器——一个开放标准，让任何编辑器接入任何 Agent，消除 N x M 的定制集成困境。

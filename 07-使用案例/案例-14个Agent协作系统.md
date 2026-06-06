@@ -12,6 +12,9 @@ aliases:
 
 # 案例：14 个 Agent 协作系统
 
+
+![[assets/14-agents.jpg]]
+
 **一句话总结**：当单个 Agent 不够用时，答案不是让它更聪明，而是让多个 Agent 分工合作——14 个 Agent + Opus 4.5 编排者 = 目前已知最大规模的个人多 Agent 部署。
 
 ## 案例概述

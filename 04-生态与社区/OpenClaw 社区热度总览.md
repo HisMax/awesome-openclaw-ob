@@ -10,6 +10,9 @@ aliases:
 
 # OpenClaw 社区热度总览
 
+
+![[assets/community-heat.jpg]]
+
 OpenClaw 在 2026 年初引发了现象级的社区热潮，其传播速度和影响力在开源项目历史上极为罕见。Peter Steinberger 创建的这个项目迅速积累了庞大的用户和开发者社区。
 
 ## 核心维度

@@ -10,6 +10,9 @@ aliases:
 
 # OpenClaw 商业模式
 
+
+![[assets/business-model.jpg]]
+
 OpenClaw 采用**完全免费开源**策略，MIT 许可证，项目本身不产生收入。这是由 [[Peter Steinberger]] 创立时确定的核心策略。
 
 ## 收入来源分析

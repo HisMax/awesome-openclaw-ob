@@ -15,6 +15,9 @@ aliases:
 
 # 案例：Citi 银行 Arc 平台
 
+
+![[assets/citi-arc.jpg]]
+
 > **一句话总结**：2026 年 4 月，花旗银行推出 Arc——一个中央化的 Agentic AI 平台，被内部称为"Agent 操作系统"。18 万名员工中 80% 已在使用 AI 工具，Arc 的目标是将分散的 AI 用例统一到一个可治理、可审计、可扩展的平台上，并首先面向 40,000 名开发者引入 Cognition 的 Devin 编码 Agent。
 
 **企业**：Citigroup（花旗集团）

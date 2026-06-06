@@ -10,6 +10,9 @@ aliases:
 
 # Vibe Coding
 
+
+![[assets/vibe-coding.jpg]]
+
 ## 定义
 
 Andrej Karpathy 提出的概念：不再逐行写代码，而是通过自然语言描述意图，让 AI 生成代码。这一理念与 [[编程民主化]] 运动密切相关。

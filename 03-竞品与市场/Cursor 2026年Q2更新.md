@@ -15,6 +15,9 @@ aliases:
 
 # Cursor 2026年Q2更新
 
+
+![[assets/cursor-q2.jpg]]
+
 ## 一句话理解
 
 > 2026 年 Q2，Cursor 连发两个大版本——3.6 的 Auto-review 让 Agent 更长时间自主工作且更安全，3.7 的 Design Mode 让非工程师也能通过点击/绘制/语音来修改 UI，同时引入 GPT-5 路由将多模型竞争内化为产品优势。Cursor 正在从"程序员的 AI IDE"转型为"所有人的 AI 开发平台"。

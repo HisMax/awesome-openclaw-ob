@@ -11,6 +11,9 @@ aliases:
 
 # Tool Use 机制
 
+
+![[assets/tool-use.jpg]]
+
 Tool Use（工具调用）是 AI Agent 与外部世界交互的核心机制。Agent 在[[自主决策循环]]中通过调用工具来执行实际操作，而非仅仅生成文本。
 
 ## 在 Agent Execution Loop 中的位置

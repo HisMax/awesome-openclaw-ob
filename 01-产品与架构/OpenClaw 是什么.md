@@ -11,6 +11,9 @@ aliases:
 
 # OpenClaw 是什么
 
+
+![[assets/openclaw-what-is.jpg]]
+
 OpenClaw 是一个**免费、开源的自主 AI Agent 框架**，运行在用户本地设备上，通过 WhatsApp、Telegram、Discord 等即时通讯应用作为交互界面，连接外部大语言模型（Claude、GPT、DeepSeek 等）来自主执行任务。
 
 > "Your own personal AI assistant. Any OS. Any Platform. The lobster way."

@@ -14,6 +14,9 @@ aliases:
 
 # GitHub Copilot 2026年Q2更新
 
+
+![[assets/copilot-q2.jpg]]
+
 ## 一句话理解
 
 > 2026 年 Q2，GitHub Copilot 经历了创立以来最大的商业模式转型——从固定月费转向 usage-based billing（AI Credits），Opus 模型从 Pro 计划移除（仅 Pro+ 保留 Opus 4.7），同时 Copilot App 技术预览带来了 canvases、语音对话、cloud sessions 和 agentic browsing，标志着 Copilot 从"IDE 插件"向"Agent 原生桌面应用"的形态进化。

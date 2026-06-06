@@ -12,6 +12,9 @@ aliases:
 
 # 案例：Fast Company 记者亲测
 
+
+![[assets/fast-company.jpg]]
+
 **一句话总结**：一位两届 ASME 获奖的资深科技记者用 OpenClaw 训练 AI 做他的本职工作——写稿，结果"令人惊讶也有点吓人"，但更重要的发现是：大厂畏缩不前，而开源社区率先让普通人体验到了真正的 AI Agent 自主性。
 
 **人物**：Mark Sullivan，Fast Company 资深撰稿人，AI Decoded 周刊作者，两届 ASME（美国杂志编辑协会）获奖记者

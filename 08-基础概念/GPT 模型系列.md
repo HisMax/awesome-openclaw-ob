@@ -9,6 +9,9 @@ tags: [OpenAI, GPT, LLM, ChatGPT]
 
 # GPT 模型系列
 
+
+![[assets/gpt-models.jpg]]
+
 > **一句话本质：** GPT（Generative Pre-trained Transformer）是 OpenAI 的旗舰大语言模型系列，从"能写文章的玩具"进化为"能操作电脑的全能智能体"，是当前商业化最成功的 LLM 家族。
 
 ## 演进时间线

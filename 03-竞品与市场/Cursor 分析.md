@@ -11,6 +11,9 @@ aliases:
 
 # Cursor 分析
 
+
+![[assets/cursor.jpg]]
+
 ## 基本信息
 
 - **类别**：AI 原生 IDE，属于 [[Agentic Coding]] 范式
