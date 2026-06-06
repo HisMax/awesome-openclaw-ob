@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5b883967b95f4f00016df1f7">小红书 @默子要早睡</a> · <a href="https://linux.do/">LinuxDO 社区</a>
+  <a href="https://watcha.cn/@mozi">观猹 @mozi</a> · <a href="https://www.xiaohongshu.com/user/profile/5b883967b95f4f00016df1f7">小红书 @默子要早睡</a> · <a href="https://linux.do/">LinuxDO 社区</a>
 </p>
 
 ---
