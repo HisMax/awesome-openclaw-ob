@@ -56,7 +56,9 @@ Anthropic 的收入增长曲线极其陡峭：
 
 ## 风险提醒
 
-300 亿美元的融资虽然惊人，但也意味着巨大的增长压力。Anthropic 需要在 3-5 年内证明这个估值是合理的，否则将面临投资人的退出压力。AI 行业的历史告诉我们：高估值既是信任票，也是紧箍咒。详见 [[OpenClaw 投资风险因素]] 中关于行业估值风险的分析。
+300 亿美元的融资虽然惊人，但也意味着巨大的增长压力。AI 行业的历史告诉我们：高估值既是信任票，也是紧箍咒。详见 [[OpenClaw 投资风险因素]] 中关于行业估值风险的分析。
+
+> **后续进展（2026 年 5 月）**：Series G 后仅三个月，Anthropic 完成了 [[Anthropic Series H 融资|$650 亿 Series H 融资]]，估值飙升至 $9,650 亿。ARR 从 G 轮时的 $140 亿增至 $470 亿，估值/营收倍数反而从 27x 降至 20.5x——营收增速跑赢了估值增速。2026 年 6 月 1 日，Anthropic 向 SEC 秘密提交了 S-1 文件，IPO 预计最早 2026 年 10 月。
 
 > 来源：https://www.anthropic.com/news/series-g-financing
 > 来源：https://www.reuters.com/technology/anthropic-raises-30-billion
@@ -64,6 +66,7 @@ Anthropic 的收入增长曲线极其陡峭：
 ## 相关笔记
 
 - [[Anthropic 公司分析]]
+- [[Anthropic Series H 融资]] — 后续 H 轮融资
 - [[Claude Code 分析]]
 
 ## 外部链接

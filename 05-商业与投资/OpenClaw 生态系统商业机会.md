@@ -45,7 +45,17 @@ aliases:
 
 [[Skills 市场]] 和 [[Skills 商业化与定价]] 是新兴商业机会。[[ClawHub]] 中的热门技能展示了市场需求，但供应链安全仍是隐患。
 
-## 6. 内容/教育
+## 6. 大厂企业化（2026 Q2 新增）
+
+| 公司 | 产品 | 说明 |
+|------|------|------|
+| **Microsoft** | Scout | 基于 OpenClaw 的企业 Agent，Build 2026 发布 |
+| **NVIDIA** | NemoClaw | OpenClaw 接入 NVIDIA AI 计算栈 |
+| **MyClaw.ai** | 全托管部署 | 全球首个完全托管的 OpenClaw 商业部署平台 |
+
+大厂入场是 OpenClaw 生态从"草根创业"到"企业基础设施"的分水岭。Microsoft Scout 的发布尤其重要——微软承诺将安全防护代码回馈上游，形成"企业需求驱动开源进化"的正循环。
+
+## 7. 内容/教育
 
 | 创作者 | 平台 | 内容 |
 |--------|------|------|
@@ -58,6 +68,8 @@ aliases:
 - [[OpenClaw 商业模式]]
 - [[OpenClaw 投资机会因素]]
 - [[Skills 市场]]
+- [[Anthropic Series H 融资]] — AI Agent 生态估值的锚点
+- [[Cognition Series D 融资]] — AI 编码 Agent 赛道新标杆
 
 ## 外部链接
 
