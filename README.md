@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-Knowledge%20Base-7C3AED?logo=obsidian&logoColor=white" /></a>
   <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" /></a>
-  <a href="#%E7%9F%A5%E8%AF%86%E5%BA%93%E7%BB%93%E6%9E%84"><img src="https://img.shields.io/badge/Notes-351-2D2D2D" /></a>
+  <a href="#%E7%9F%A5%E8%AF%86%E5%BA%93%E7%BB%93%E6%9E%84"><img src="https://img.shields.io/badge/Notes-339-2D2D2D" /></a>
   <a href="#%E7%9F%A5%E8%AF%86%E5%BA%93%E7%BB%93%E6%9E%84"><img src="https://img.shields.io/badge/Wikilinks-3250+-6B7B5E" /></a>
   <a href="#%E9%85%8D%E5%9B%BE%E9%A2%84%E8%A7%88"><img src="https://img.shields.io/badge/Illustrations-100-B8845C" /></a>
 </p>
 
 <p align="center">
-  <b>351 篇原子化笔记 · 3250+ 双向链接 · 100 张 SCI 风格配图 · 9 大主题全覆盖</b>
+  <b>339 篇原子化笔记 · 3250+ 双向链接 · 100 张 SCI 风格配图 · 9 大主题全覆盖</b>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ git clone https://github.com/HisMax/awesome-openclaw-ob.git
 
 An **Obsidian-based atomic knowledge base** for deep research on **OpenClaw** — the open-source AI Agent framework with 375K+ GitHub Stars.
 
-**351 notes · 3250+ wikilinks · 100 illustrations · 9 topics** — covering architecture, security, competitors, ecosystem, business, trends, use cases, concepts, and key figures. Data updated to **June 2026**.
+**339 notes · 3250+ wikilinks · 100 illustrations · 9 topics** — covering architecture, security, competitors, ecosystem, business, trends, use cases, concepts, and key figures. Data updated to **June 2026**.
 
 ```bash
 git clone https://github.com/HisMax/awesome-openclaw-ob.git
