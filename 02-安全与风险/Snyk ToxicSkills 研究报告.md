@@ -64,6 +64,10 @@ Snyk 的统计数据在 [[Atomic Stealer 通过 ClawHub 分发]] 事件中得到
 - 与 [[恶意 Skills 供应链攻击]] 构成完整的供应链威胁分析
 - 1Password 在独立研究中验证了 Snyk 的发现
 
+## 后续研究对比
+
+Snyk 的抽样审计（3,984 样本）后来被 [[RankClaw ClawHub 审计]]（全量 14,706 样本）和 ClawSecure（2,890 热门 Skill）所补充。RankClaw 全量审计发现 7.5% 恶意率（低于 Snyk 的 12%），但绝对数字——每安装 13 个 Skill 就有 1 个恶意——依然触目惊心。ClawSecure 对热门 Skill 的审计则发现了 41.7% 的漏洞率。
+
 ## 相关笔记
 
 - [[恶意 Skills 供应链攻击]]
@@ -72,6 +76,9 @@ Snyk 的统计数据在 [[Atomic Stealer 通过 ClawHub 分发]] 事件中得到
 - [[安全边界与风险（总览）]]
 - [[代码执行安全]]
 - [[暗网讨论分析]]
+- [[RankClaw ClawHub 审计]] — 全量审计数据
+- [[GTIG AI 生成零日攻击报告]] — AI 生成恶意 Skill 的威胁
+- [[2026年Q2安全态势总览]] — Q2 供应链安全态势
 
 ## 外部链接
 

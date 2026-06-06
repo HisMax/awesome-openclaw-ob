@@ -18,10 +18,11 @@ aliases:
 
 - **无专职安全团队**
 - **无 Bug 赏金计划**
-- 存在多个严重 CVE（如 [[ClawJacked 远程代码执行漏洞]]，CVSS 8.8）和 [[2026年3月安全公告汇总|2026年3月 10 个 GHSA]]（含 CVSS 10.0）
-- **42,000+ 个未保护的 OpenClaw 网关暴露在互联网上**（CloudBees 报告）
+- CVE 累计突破 **472 个**（截至 2026 年 5 月），平均每天 2.7 个新漏洞
+- 存在多个严重 CVE：[[ClawJacked 远程代码执行漏洞]]（CVSS 8.8）、[[Claw Chain 四漏洞链]]（CVSS 最高 9.6）、CVE-2026-32922（CVSS 9.9）
+- **245,000+ 个 OpenClaw 实例暴露在互联网上**（2026 年 5 月 Shodan + ZoomEye 数据）
 - [[Prompt Injection 风险]] 无法从架构层面解决
-- 恶意 Skills 供应链攻击风险持续存在
+- 恶意 Skills 供应链攻击风险持续存在——[[RankClaw ClawHub 审计|全量审计]] 确认 7.5% 恶意率
 
 ## 已知安全漏洞修复进度
 
@@ -49,6 +50,10 @@ OpenClaw Foundation 治理 目前缺少安全响应团队，与 Linux Foundation
 - [[ClawHavoc 事件]]
 - [[2026年3月安全公告汇总]] — 最新 GHSA 安全公告
 - [[WebSocket 提权漏洞 GHSA-rqpp]] — CVSS 10.0 满分漏洞
+- [[Claw Chain 四漏洞链]] — 2026 年 5 月最严重链式漏洞
+- [[GTIG AI 生成零日攻击报告]] — AI 武器化实战确认
+- [[RankClaw ClawHub 审计]] — ClawHub 全量安全审计
+- [[2026年Q2安全态势总览]] — Q2 安全态势总览
 
 ## 外部链接
 

@@ -35,6 +35,10 @@ aliases:
 
 > CrowdStrike 评价："提示注入将成为他们的 **PrintNightmare 时刻**。"
 
+## Q2 更新：AI 对抗 AI 的新维度
+
+[[GTIG AI 生成零日攻击报告]] 确认攻击者正在使用 AI 自动化生成 Prompt Injection 载荷。[[RankClaw ClawHub 审计]] 发现 ClawHub 中 Prompt Injection 是主要恶意 Skill 攻击类型之一，且传统 VirusTotal 签名扫描**完全无法检测**此类载荷。AIRQ 2026 Q2 报告确认 **98%** 的 AI Agent 具备[[致命三合一安全矛盾|致命三合一]]特征，使 Prompt Injection 的攻击面几乎覆盖所有生产 Agent。
+
 ## 相关笔记
 
 - [[安全边界与风险（总览）]]
@@ -43,6 +47,9 @@ aliases:
 - [[代码执行安全]]
 - [[恶意 Skills 供应链攻击]]
 - [[Constitutional AI]] — CAI 训练方法虽能增强模型的安全判断，但无法从根本上防范对抗性提示注入
+- [[GTIG AI 生成零日攻击报告]] — AI 自动化攻击代码生成
+- [[RankClaw ClawHub 审计]] — Prompt Injection 作为主要恶意 Skill 类型
+- [[2026年Q2安全态势总览]] — Q2 安全态势
 
 ## 外部链接
 
